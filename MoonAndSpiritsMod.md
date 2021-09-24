@@ -18,7 +18,7 @@
 - Each Spirit is tied to a given Moon Phase, with there being 4 Spirits in total
   - \<placeholder>, the Spirit of Darkness and Wealth.
     - Can be communed with on New and Crescent Moons.
-  - \<placeholder>, the Spirit of Growth and \<placeholder>.
+  - \<placeholder>, the Spirit of Growth and [\[\[Hyperlink Blocked\]\]](https://i.kym-cdn.com/photos/images/original/002/203/815/241.gif).
     - Can be communed with on any Waxing Moon.
   - \<placeholder>, the Spirit of Light and Dreams.
     - Can be communed with on Full and Gibbous Moons.
