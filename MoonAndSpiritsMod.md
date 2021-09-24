@@ -14,7 +14,7 @@
 
 ## Spirits
 - Spirits are unconcerned with mortal happenings, and are neither good nor evil.
-- If appeased, they may assist a player with specific things in which they have power over.
+- If appeased, they may grant blessings related to their domain.
 - Each Spirit is tied to a given Moon Phase, with there being 4 Spirits in total
   - \<placeholder>, the Spirit of Darkness and Wealth.
     - Can be communed with on New and Crescent Moons.
@@ -22,5 +22,5 @@
     - Can be communed with on any Waxing Moon.
   - \<placeholder>, the Spirit of Light and Dreams.
     - Can be communed with on Full and Gibbous Moons.
-  - \<placeholder>, the Spirit of Death and \<placeholder>.
+  - \<placeholder>, the Spirit of Death and the Harvest.
     - Can be communed with on any Waning Moon.
