@@ -16,11 +16,11 @@
 - Spirits are unconcerned with mortal happenings, and are neither good nor evil.
 - If appeased, they may assist a player with specific things in which they have power over.
 - Each Spirit is tied to a given Moon Phase, with there being 4 Spirits in total
-  - La (New Moon) - Spirit of darkness and wealth.
+  - La, the Spirit of Darkness and Wealth.
     - Can be communed with on New and Crescent Moons.
-  - (Waxing Moon) - Spirit of \<placeholder>.
+  - \<placeholder>, the Spirit of \<placeholder>.
     - Can be communed with on any Waxing Moon.
-  - Tui (Full Moon) - Spirit of light and dreams.
+  - Tui, the Spirit of Light and Dreams.
     - Can be communed with on Full and Gibbous Moons.
-  - (Waning Moon) - Spirit of \<placeholder>.
+  - \<placeholder>, the Spirit of \<placeholder>.
     - Can be communed with on any Waning Moon.
