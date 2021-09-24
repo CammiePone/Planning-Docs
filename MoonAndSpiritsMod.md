@@ -18,9 +18,9 @@
 - Each Spirit is tied to a given Moon Phase, with there being 4 Spirits in total
   - La, the Spirit of Darkness and Wealth.
     - Can be communed with on New and Crescent Moons.
-  - \<placeholder>, the Spirit of \<placeholder>.
+  - \<placeholder>, the Spirit of Growth and \<placeholder>.
     - Can be communed with on any Waxing Moon.
   - Tui, the Spirit of Light and Dreams.
     - Can be communed with on Full and Gibbous Moons.
-  - \<placeholder>, the Spirit of \<placeholder>.
+  - \<placeholder>, the Spirit of Death and \<placeholder>.
     - Can be communed with on any Waning Moon.
