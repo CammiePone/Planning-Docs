@@ -24,3 +24,5 @@
     - Can be communed with on Full and Gibbous Moons.
   - \<placeholder>, the Spirit of Death and the Harvest.
     - Can be communed with on any Waning Moon.
+<br>
+<sub>...I wanna infuse a melon with spirit water</sub>
