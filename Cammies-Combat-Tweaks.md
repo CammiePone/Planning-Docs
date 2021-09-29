@@ -9,10 +9,10 @@
 - DamageTypes will be added on top of DamageSources for different weapons
 
 ## Damage Types
-- Piercing
-- Bludgeoning
-- Cleaving
-- Slashing
+- Piercing - applies to Arrows and thrown Tridents
+- Bludgeoning - applies to Shovels, Pickaxes, and swung Tridents
+- Cleaving - applies to Axes and Hoes
+- Slashing - applies to Swords
 
 ## Swords
 - Swords can now Sword Hop
