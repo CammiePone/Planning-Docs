@@ -8,6 +8,12 @@
 - Invulnerability ticks are removed for most DamageSources
 - DamageTypes will be added on top of DamageSources for different weapons
 
+## Damage Types
+- Piercing
+- Bludgeoning
+- Cleaving
+- Slashing
+
 ## Swords
 - Swords can now Sword Hop
   - Hold RMB and a directional key, then press Space to Sword Hop in that direction
