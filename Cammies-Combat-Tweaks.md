@@ -2,6 +2,7 @@
 
 ## General
 - Attack speed now acts as a hard cooldown
+- Weapons attack faster than before
 - Undid the additional cooldown on missed attacks Mojang added in 1.8 which soft-capped CPS to 10
 - Item cooldown now affects attacking as well as right click
 
