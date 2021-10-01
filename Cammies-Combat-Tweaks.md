@@ -15,8 +15,7 @@
 - Slashing - applies to Swords
 
 ## Swords
-- Swords can now Sword Hop
-  - Hold RMB and a directional key, then press Space to Sword Hop in that direction
+- Swords now act as an active hitbox when swung, but they can only hit an entity once
 
 ## Armour
 - Different armours will resist different DamageTypes
