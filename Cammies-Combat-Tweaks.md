@@ -23,7 +23,7 @@
 - \[ ] Armour protection will be nerfed a little bit
 
 ## Shields
-- \[x] Shields can now parry direct attacks within 1/10th of a second of being used
+- \[x] Shields can now parry direct attacks within 1/4th of a second of being used
   - \[x] Parried attacks disable the attacker's weapons for 2.5 seconds
 - \[x] Shields now only protect in a 100 degree arc
 - \[x] Shields are able to block instantly
