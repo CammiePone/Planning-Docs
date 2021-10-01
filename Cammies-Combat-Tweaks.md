@@ -24,10 +24,10 @@
 
 ## Shields
 - \[x] Shields can now parry direct attacks within 1/4th of a second of being used
-  - \[x] Parried attacks disable the attacker's weapons for 2.5 seconds
+  - \[x] Parried attacks disable the attacker's weapons for 4 seconds
 - \[x] Shields now only protect in a 100 degree arc
 - \[x] Shields are able to block instantly
-- \[x] Shields now go on a 3 second cooldown if you release right click for the first half second of the shield being active
+- \[x] Shields now go on a 2 second cooldown if you release right click for the first half second of the shield being active
 - \[x] Shields only block 5 damage from direct attacks
 
 ## Elytras
