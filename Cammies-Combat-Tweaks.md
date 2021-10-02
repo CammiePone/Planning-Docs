@@ -5,7 +5,7 @@
 - \[x] Weapons attack faster than before
 - \[x] Undid the additional cooldown on missed attacks Mojang added in 1.8 which soft-capped CPS to 10
 - \[x] Item cooldown now affects attacking as well as right click
-- \[x] Players and Projectiles ignore invulnerability ticks
+- \[x] Players, Projectiles, and Magic ignore invulnerability ticks
 
 ## Damage Types
 - \[ ] 4 different DamageTypes certain weapons inflict
