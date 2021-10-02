@@ -8,6 +8,7 @@
     - \[x] Diamond is slightly slower than Wood, Stone, and Iron
     - \[x] Netherite is slightly slower than Diamond
     - \[x] Gold is much faster than Wood, Stone, and Iron
+- \[x] Gold tool durability is doubled
 - \[x] Undid the additional cooldown on missed attacks Mojang added in 1.8 which soft-capped CPS to 10
 - \[x] Item cooldown now affects attacking as well as right click
 - \[x] Players, Projectiles, and Magic ignore invulnerability ticks
