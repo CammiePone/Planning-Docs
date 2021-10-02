@@ -22,10 +22,10 @@
 
 ## Swords
 - [ ] Swords now act as an active hitbox when swung, but they can only hit an entity once
-- [ ] Increased attack reach (from 3 to 4)
+- [x] Increased attack reach (from 3 to 4)
 
 ## Tridents
-- [ ] Increased attack reach (from 3 to 5)
+- [x] Increased attack reach (from 3 to 5)
 - [ ] Riptide works outside of water and rain
   - [ ] Riptide no longer works for Elytras unless in the water or rain
 - [ ] Increased drop chance
