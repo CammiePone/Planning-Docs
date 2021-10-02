@@ -50,4 +50,4 @@
 - [ ] Increased hitbox (collision box remains the same) size while in use
 
 ## Mending
-- [ ] Idk what exactly needs to be done with this piece of hot garbage, but something needs to be done
+- [ ] Can be turned into Unbreakable if the Player shift + right clicks a Tier 4 Beacon with the tool that has Mending on it
