@@ -18,7 +18,7 @@
 - \[ ] Swords now act as an active hitbox when swung, but they can only hit an entity once
 
 ## Crossbows
-- \[ ] Crossbows can now have Multishot and Piercing simultaneously
+- \[x] Crossbows can now have Multishot and Piercing simultaneously
 
 ## Armour
 - \[ ] Different armours will resist different DamageTypes
