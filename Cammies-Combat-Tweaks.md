@@ -22,6 +22,10 @@
 
 ## Swords
 - \[ ] Swords now act as an active hitbox when swung, but they can only hit an entity once
+- \[ ] Increased attack reach (from 3 to 4)
+
+## Tridents
+- \[ ] Increased attack reach (from 3 to 5)
 
 ## Crossbows
 - \[x] Crossbows can now have Multishot and Piercing simultaneously
