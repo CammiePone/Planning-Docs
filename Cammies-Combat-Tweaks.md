@@ -51,3 +51,5 @@
 
 ## Mending
 - [ ] Can be turned into Unbreakable if the Player shift + right clicks a Tier 4 Beacon with the tool that has Mending on it
+  - [ ] Mending requirement can be disabled via config
+  - [ ] Feature as a whole can be disabled via config
