@@ -26,8 +26,8 @@
 
 ## Tridents
 - [x] Increased attack reach (from 3 to 5)
-- [ ] Riptide works outside of water and rain
-  - [ ] Riptide no longer works for Elytras unless in the water or rain
+- [x] Riptide works outside of water and rain
+  - [x] Riptide no longer works for Elytras unless in the water or rain
 - [ ] Increased drop chance
 
 
