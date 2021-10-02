@@ -28,7 +28,7 @@
 - [x] Increased attack reach (from 3 to 5)
 - [x] Riptide works outside of water and rain
   - [x] Riptide no longer works for Elytras unless in the water or rain
-- [ ] Increased drop chance
+- [x] 25% chance to be found in place of a Treasure Map in a Shipwreck
 
 
 ## Crossbows
