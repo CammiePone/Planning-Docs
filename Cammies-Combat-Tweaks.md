@@ -12,6 +12,7 @@
 - [x] Undid the additional cooldown on missed attacks Mojang added in 1.8 which soft-capped CPS to 10
 - [x] Item cooldown now affects attacking as well as right click
 - [x] Players, Projectiles, and Magic ignore invulnerability ticks
+- [ ] Command to get the attribute name(s) and UUID(s) on an item
 
 ## Damage Types
 - [ ] 4 different DamageTypes certain weapons inflict
