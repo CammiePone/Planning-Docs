@@ -15,13 +15,6 @@
 - [ ] Command to get the attribute name(s) and UUID(s) on an item
 - [x] An attack can now be queued when you attack while on cooldown
 
-## Damage Types
-- [ ] 4 different DamageTypes certain weapons inflict
-  - [ ] Piercing - applies to Arrows and thrown Tridents
-  - [ ] Bludgeoning - applies to Shovels, Pickaxes, and swung Tridents
-  - [ ] Cleaving - applies to Axes and Hoes
-  - [ ] Slashing - applies to Swords
-
 ## Swords
 - [ ] Swords now act as an active hitbox when swung, but they can only hit an entity once
 - [x] Increased attack reach (from 3 to 4)
@@ -34,11 +27,6 @@
 
 ## Crossbows
 - [x] Crossbows can now have Multishot and Piercing simultaneously
-
-## Armour
-- [ ] Different armours will resist different DamageTypes
-  - [ ] Armours will also be weak to certain DamageTypes
-- [ ] Armour protection will be nerfed a little bit
 
 ## Shields
 - [x] Shields can now parry direct attacks within 1/4th of a second of being used
