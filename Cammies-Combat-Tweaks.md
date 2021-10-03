@@ -13,7 +13,7 @@
 - [x] Item cooldown now affects attacking as well as right click
 - [x] Players, Projectiles, and Magic ignore invulnerability ticks
 - [ ] Command to get the attribute name(s) and UUID(s) on an item
-- [ ] An attack can now be queued when you attack while on cooldown
+- [x] An attack can now be queued when you attack while on cooldown
 
 ## Damage Types
 - [ ] 4 different DamageTypes certain weapons inflict
