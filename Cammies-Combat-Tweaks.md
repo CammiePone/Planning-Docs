@@ -39,6 +39,9 @@
 ## Elytras
 - [ ] Increased hitbox (collision box remains the same) size while in use
 
+## Potions
+- [ ] Speed or Jump Boost increases air strafing speed, need to decide which
+
 ## Mending
 - [x] Can be turned into Unbreakable if the Player shift + right clicks a Tier 4 Beacon with the tool that has Mending on it
 
