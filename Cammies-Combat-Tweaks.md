@@ -47,8 +47,9 @@
 - [x] Player now regens at half a heart per second regardless of saturation level
 - [x] Player loses hunger at a 1:1 rate per health regenerated, instead of at a 1:1.5
 
-## Mending
-- [x] Can be turned into Unbreakable if the Player shift + right clicks a Tier 4 Beacon with the tool that has Mending on it
+## Enchantments
+- [x] Mending can be turned into Unbreakable if the Player shift + right clicks a Tier 4 Beacon with a tool
+- [x] Thorns no longer causes knockback on those hurt by it
 
 ## Config
 - [ ] Mending requirement for Unbreakable tools can be disabled via config
