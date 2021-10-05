@@ -11,7 +11,7 @@
 - [x] Gold tool durability is doubled
 - [x] Undid the additional cooldown on missed attacks Mojang added in 1.8 which soft-capped CPS to 10
 - [x] Item cooldown now affects attacking as well as right click
-- [x] Players, Projectiles, and Magic ignore invulnerability ticks
+- [x] Players and Projectiles ignore invulnerability ticks
 - [ ] Command to get the attribute name(s) and UUID(s) on an item
 - [x] An attack can now be queued when you attack while on cooldown
 
@@ -22,8 +22,9 @@
 ## Tridents
 - [x] Increased attack reach (from 3 to 5)
 - [x] Riptide works outside of water and rain
-  - [x] Riptide no longer works for Elytras unless in the water or rain
+  - [x] Riptide is half as effective outside of water and rain
 - [x] 25% chance to be found in place of a Treasure Map in a Shipwreck
+- [x] Cap Riptide + Elytra speed to 2.5
 
 ## Crossbows
 - [x] Crossbows can now have Multishot and Piercing simultaneously
