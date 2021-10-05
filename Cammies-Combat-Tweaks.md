@@ -16,7 +16,6 @@
 - [x] An attack can now be queued when you attack while on cooldown
 
 ## Swords
-- [ ] Swords now act as an active hitbox when swung, but they can only hit an entity once
 - [x] Increased attack reach (from 3 to 4)
 
 ## Tridents
