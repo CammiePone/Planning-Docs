@@ -36,8 +36,9 @@
 - [x] Shields now go on a 2 second cooldown if you release right click for the first half second of the shield being active
 - [x] Shields only block 5 damage from direct attacks
 
-## Elytras
-- [ ] Increased hitbox (collision box remains the same) size while in use
+## Projectiles
+- [x] Arrows have no random deviation
+- [x] Projectiles check in a wider area for if they hit a flying player
 
 ## Potions
 - [x] Speed increases air speed as well
