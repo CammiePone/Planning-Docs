@@ -52,7 +52,7 @@
 
 ## Enchantments
 - [x] Mending can be turned into Unbreakable if the Player shift + right clicks a Tier 4 Beacon with a tool
-- [x] Thorns no longer causes knockback on those hurt by it
+- [x] Thorns no longer causes knockback to those hurt by it
 
 ## Config
 - [ ] Mending requirement for Unbreakable tools can be disabled via config
