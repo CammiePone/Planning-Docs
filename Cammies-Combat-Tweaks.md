@@ -17,7 +17,6 @@
 
 ## Swords
 - [x] Sword sweeping happens even if you miss an attack
-  - [x] Sweeping Edge 3 multiplier is 100% base damage instead of 75%
 - [x] Increased attack reach (from 3 to 4)
 
 ## Tridents
@@ -52,6 +51,7 @@
 
 ## Enchantments
 - [x] Mending can be turned into Unbreakable if the Player shift + right clicks a Tier 4 Beacon with a tool
+- [x] Sweeping Edge 3 multiplier is 100% base damage instead of 75%
 - [x] Thorns no longer causes knockback to those hurt by it
 
 ## Config
