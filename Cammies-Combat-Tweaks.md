@@ -17,6 +17,7 @@
 
 ## Swords
 - [x] Sword sweeping happens even if you miss an attack
+  - [x] Sweeping Edge 3 multiplier is 100% base damage instead of 75%
 - [x] Increased attack reach (from 3 to 4)
 
 ## Tridents
