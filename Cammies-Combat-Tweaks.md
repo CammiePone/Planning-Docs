@@ -43,6 +43,7 @@
 
 ## Potions
 - [x] Speed increases air speed as well
+- [x] Slowness decreases air speed as well
 
 ## Regeneration
 - [x] Minimum hunger for regen is 11
