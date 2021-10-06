@@ -16,6 +16,7 @@
 - [x] An attack can now be queued when you attack while on cooldown
 
 ## Swords
+- [x] Sword sweeping happens even if you miss an attack
 - [x] Increased attack reach (from 3 to 4)
 
 ## Tridents
