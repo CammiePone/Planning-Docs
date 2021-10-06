@@ -12,7 +12,7 @@
 - [x] Undid the additional cooldown on missed attacks Mojang added in 1.8 which soft-capped CPS to 10
 - [x] Item cooldown now affects attacking as well as right click
 - [x] Players and Projectiles ignore invulnerability ticks
-- [ ] Command to get the attribute name(s) and UUID(s) on an item
+- [x] Command to get the attribute name(s) and UUID(s) on an item
 - [x] An attack can now be queued when you attack while on cooldown
 
 ## Swords
