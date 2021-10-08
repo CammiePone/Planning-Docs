@@ -54,3 +54,9 @@
 - [x] Minimum hunger for regen is 11
 - [x] Player now regens at half a heart per second regardless of saturation level
 - [x] Player loses hunger at a 1:1 rate per health regenerated, instead of at a 1:1.5
+
+## Animations
+- [ ] Add proper first- and third-person attack animations for the following:
+  - [ ] Sword
+  - [ ] Axe
+  - [ ] Trident
