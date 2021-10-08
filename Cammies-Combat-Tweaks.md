@@ -54,7 +54,3 @@
 - [x] Minimum hunger for regen is 11
 - [x] Player now regens at half a heart per second regardless of saturation level
 - [x] Player loses hunger at a 1:1 rate per health regenerated, instead of at a 1:1.5
-
-## Config
-- [ ] Mending requirement for Unbreakable tools can be disabled via config
-- [ ] Unbreakable tools feature as a whole can be disabled via config
