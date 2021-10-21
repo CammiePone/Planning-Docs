@@ -2,18 +2,18 @@
 
 ## Power Armour
 - [ ] Power Armour is a unique set of gear the player can craft that consumes energy and produces heat to enhance the player's own capabilities
-- [ ] Has max weight of 35lbs before starts affecting player movement speed
+- [ ] Has max weight of 35lbs before starts affecting player movement speed and jump height
 - [ ] Has the protection values of chainmail armour
 - [ ] Has multiple upgrades available per armour piece
   - [ ] Head:
     - [ ] Heat Sink
       - [ ] Dissipates heat up to 25% faster
       - [ ] No energy drain
-      - [ ] Weighs 1lb to 10lbs
+      - [ ] Weighs 2lbs to 10lbs
     - [ ] Water Electrolyzer
       - [ ] Grants underwater breathing
       - [ ] Constant energy drain while underwater
-      - [ ] Weighs 1lb
+      - [ ] Weighs 2lbs
     - [ ] Enhanced Vision
       - [ ] Gives night vision and zoom
       - [ ] No energy drain
@@ -22,11 +22,11 @@
     - [ ] Heat Sink
       - [ ] Dissipates heat up to 25% faster
       - [ ] No energy drain
-      - [ ] Weighs 1lb to 10lbs
+      - [ ] Weighs 2lbs to 10lbs
     - [ ] Battery
       - [ ] Holds charge for the rest of the armour
       - [ ] No energy drain
-      - [ ] Weighs between 5lbs and 25lbs depending on size
+      - [ ] Weighs between 10lbs and 25lbs depending on size
     - [ ] Energy Shield
       - [ ] Reflects a single projectile
       - [ ] Consumes 100 energy to recharge
@@ -41,7 +41,7 @@
     - [ ] Heat Sink
       - [ ] Dissipates heat up to 25% faster
       - [ ] No energy drain
-      - [ ] Weighs 1lb to 10lbs
+      - [ ] Weighs 2lbs to 10lbs
     - [ ] Step Assist
       - [ ] Lets you step up a single block
       - [ ] No energy drain
@@ -52,12 +52,12 @@
       - [ ] Consumes 5 energy per second while running
       - [ ] Consumes 20 energy per jump
       - [ ] Produces 10 heat per jump
-      - [ ] Weighs 10lbs
+      - [ ] Weighs 5lbs
   - [ ] Feet:
     - [ ] Heat Sink
       - [ ] Dissipates heat up to 25% faster
       - [ ] No energy drain
-      - [ ] Weighs 1lb to 10lbs
+      - [ ] Weighs 2lbs to 10lbs
     - [ ] Shock Aborbers
       - [ ] Reduces fall damage up to 100%
       - [ ] Consumes an equal amount of energy as damage you would've taken
@@ -69,4 +69,12 @@
       - [ ] Weighs 5lbs
 
 ## Guns >:)
-- [ ] Idk I haven't written anything yet
+- [ ] Pistol
+  - [ ] Goes pewpew
+  - [ ] Can ads
+- [ ] Rifle
+  - [ ] Stronger pewpew
+  - [ ] Can ads
+- [ ] Shotgun
+  - [ ] Can't ads
+  - [ ] Alt-fire charges plasma blast
