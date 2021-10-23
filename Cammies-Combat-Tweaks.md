@@ -32,7 +32,8 @@
 
 ## Shields
 - [x] Shields can now parry direct attacks within 1/4th of a second of being used
-  - [x] Parried attacks disable the attacker's weapons for 4 seconds
+  - [x] Parried attacks disable the attacking player's weapons for 4 seconds
+  - [x] Parried attacks from non-players will deal double the damage they would deal to you
 - [x] Shields now only protect in a 100 degree arc
 - [x] Shields are able to block instantly
 - [x] Shields now go on a 2 second cooldown if you release right click for the first half second of the shield being active
