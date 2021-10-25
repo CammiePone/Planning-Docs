@@ -12,7 +12,7 @@
       - [ ] Entities affected by Telekinesis take velocity damage when flung
     - [ ] Psionic Suppressors - suppresses Psychic Energy in a space around the player
     - [ ] Psionic Barrier - creates a short-lived barrier of Psychic Energy which blocks blows and knocks back foes
-    - [ ] ???
+    - [ ] Psionic Warp - lets you do a funni teleport dodge in any direction 
     - [ ] ???
     - [ ] ???
 - [ ] Has the protection values of chainmail armour
