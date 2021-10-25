@@ -1,10 +1,22 @@
 # Stardust
 
-## Power Armour
-- [ ] Power Armour is a unique set of gear the player can craft that consumes energy and produces heat to enhance the player's own capabilities
-- [ ] Has max weight of 35lbs before starts affecting player movement speed and jump height
+## Psionic Armour
+- [ ] Psionic Armour is a low-protection set of armour that generates Psychic Energy
+- [ ] Can be upgraded by the player to unlock Psionic powers
+  - [ ] Upgrades require the full set of armour to be equipped to use
+  - [ ] Upgrades can be improved at the cost of drawing more power
+  - [ ] List of Upgrades:
+    - [ ] Capacitor - supplies energy for the Psionic Armour
+    - [ ] Psionic Shock - sends out a shockwave of Psycic Energy that cripples nearby enemies for a short period of time
+    - [ ] Psychokinesis - allows you to lift and move entities in a radius around
+      - [ ] Entities affected by Telekinesis take velocity damage when flung
+    - [ ] Psionic Suppressors - suppresses Psycic Energy in a space around the player
+    - [ ] Psionic Barrier - creates a short-lived barrier of Psychic Energy which blocks blows and knocks back foes
+    - [ ] ???
+    - [ ] ???
+    - [ ] ???
 - [ ] Has the protection values of chainmail armour
-- [ ] Fuck the upgrades idk what I wanna do with this armour
+- [ ] Has no durability because heck durability
 
 ## Guns >:)
 - [ ] Pistol
