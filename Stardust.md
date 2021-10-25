@@ -7,10 +7,10 @@
   - [ ] Upgrades can be improved at the cost of drawing more power
   - [ ] List of Upgrades:
     - [ ] Capacitor - supplies energy for the Psionic Armour
-    - [ ] Psionic Shock - sends out a shockwave of Psycic Energy that cripples nearby enemies for a short period of time
+    - [ ] Psionic Shock - sends out a shockwave of Psychic Energy that cripples nearby enemies for a short period of time
     - [ ] Psychokinesis - allows you to lift and move entities in a radius around
       - [ ] Entities affected by Telekinesis take velocity damage when flung
-    - [ ] Psionic Suppressors - suppresses Psycic Energy in a space around the player
+    - [ ] Psionic Suppressors - suppresses Psychic Energy in a space around the player
     - [ ] Psionic Barrier - creates a short-lived barrier of Psychic Energy which blocks blows and knocks back foes
     - [ ] ???
     - [ ] ???
