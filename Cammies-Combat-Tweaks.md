@@ -15,6 +15,7 @@
 - [x] Command to get the attribute name(s) and UUID(s) on an item
 - [x] An attack can now be queued when you attack while on cooldown
 - [x] Removed Toughnesss and Knockback Resistance from Diamond and Netherite Armour
+- [x] Players can now Crouch Jump to get a little more height
 
 ## Swords
 - [x] Sword sweeping happens even if you miss an attack
