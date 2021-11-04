@@ -11,8 +11,13 @@
     * Pillars diagonal to the Central Pedestal are placed 2 blocks out.
     * The bottom of the pillars act as Vis Pipe inputs. They will redirect Gaseous Vis put into them into the Infusion Matrix. They can only accept 1 pipe at a time.
   * There can technically be as few, or as many, Auxiliary Pedestals as the player wants.
-    * However, Pedestals should have linear cyclic symmetry to reduce instability in the Infusion Matrix.
-    * Auxiliary Pedestals have to be on the same horizontal plane as the Central Pedestal.
+    * However, Pedestals should have rotational symmetry to reduce instability in the Infusion Matrix.
+    * Instability can be further reduced using things such as Vis Crystal Clusters and Mob Heads.
+    * Instability has 4 stages:
+      * Safe
+      * Risky
+      * Volatile
+      * Dangerous
   * The items placed on the Auxiliary Pedestals will be picked up one at a time from their pedestal and will slowly spiral into the Infusion Matrix, before disappearing.
   * The Infusion ends when the Central Pedestal Item is lifted up into the Infusion Matrix and infused with the Gaseous Vis and essence of the auxiliar items. It will then be placed back into the Central Pedestal and the ritual ends.
 
