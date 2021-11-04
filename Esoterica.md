@@ -4,7 +4,7 @@
 * Powered by Vis obtained from stabilised nodes connected via [Vis Pipes](#vis-pipes).
 * All infusions have a stability level, and can have disatrous consequences (Flux everywhere) if the Infusion Altar isn't properly stabilised.
   * Can be stabilised by having the auxiliary items and altar modifiers placed symmetrically around the primary item.
-* Structure requires a minimum space of 7x6x7 and a maximum space of 25x12x25.
+* Structure requires a minimum space of 7x5x7 and a maximum space of 25x9x25.
   * Central Pedestal with the Infusion Matrix 4 blocks above it.
   * 8 surrounding 3 block-tall pillars of Polished Deepslate, with a Copper on top.
     * Pillars directly North/East/South/West of the Central Pedestal are placed 3 blocks out.
