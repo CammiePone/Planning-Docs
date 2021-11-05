@@ -19,9 +19,7 @@
   - [ ] Some upgrades have to be unlocked by the player finding certain things.
 - [ ] List of Magical Elements:
   - [ ] ???
-- [ ] List of Spells:
-  - [ ] ???
-- [ ] List of Spell Upgrades:
+- [ ] List of Spells & Their Upgrades:
   - [ ] ???
 
 ## Origins Compat:
