@@ -1,4 +1,4 @@
-# Arcanus 1.17
+# Arcanus 1.17 (old)
 
 ## General
 - [x] Wands will progress with time to make casting cheaper.
@@ -23,4 +23,4 @@
 
 ---
 
-# Arcanus 1.18
+# Arcanus 1.18 (new)
