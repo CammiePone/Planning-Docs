@@ -58,7 +58,7 @@
   
       [<img src="./imgs/complimentary_vis_chart.png" alt="Vis Chart" width="512"/>](./imgs/vis%20chart.png)
     </details> --->
-* Compound Vis cannot be used in Spell Casting, and have no known strengths/weaknesses as a result.
+* Compound/Complimentary Vis cannot be used in Spell Casting, and have no known strengths/weaknesses as a result.
 * Comes in two forms:
   * **Ethereal Vis** - requires a focusing element to be transferred from a node. Wands act as focusing elements into themselves, and Amethyst can focus Ethereal Vis to move it around.
   * **Gaseous Vis** - can only be transferred via pipe, and is considered acidic. Is used in the **Infusion Altar** and **Homunculus Incubator**. Might be able to be mixed into new forms to take the place of Essentia.
