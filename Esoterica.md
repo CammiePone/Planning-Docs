@@ -156,12 +156,14 @@
     </details>
 
 ## Thaumaturgical Flux
-* Thaumaturgical Flux is the byproduct of wayward magic. It is basic, and will neutralise Gaseous Vis. If left uncleaned, it will inevitably begin to warp its surroundings. It can be stored within magical wards.
+* Thaumaturgical Flux is the byproduct of wayward magic. It is basic, and will neutralise Gaseous Vis. If left uncleaned, it will inevitably begin to [Warp](#warp) its surroundings. It can be contained by magical wards, or deep bodies water.
+  * Flux can be cleaned up using a Flux Scrubber.
 
 ## Warp
-* Warp is a malevolent form of magic, often caused by [Thaumaturgical Flux](#thaumaturgical-flux). It is called such due to how it warps living beings it touches, inevitably draining and killing them, leaving nothing more than a husk animated by malevolent energy.
+* Warp is a malevolent form of uncontrolled magic, often caused by [Thaumaturgical Flux](#thaumaturgical-flux). It is called such due to how it warps living beings it touches, inevitably draining and killing them, leaving nothing more than a husk animated by malevolent energy.
   * Spreads from its epicenter, and can only be contained by either magical wards or deep bodies of water.
     * Warp can be cured by use of a magical plant that can be synthesized by experienced Thaumaturges.
+    * Said plant converts Warp to 
   * Will affect all instances of LivingEntity to create [Warped Abominations](#warped-abominations).
   * Is required for, and can be gained by, forbidden research topics.
 
