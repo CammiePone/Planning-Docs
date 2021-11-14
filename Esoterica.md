@@ -155,12 +155,15 @@
       * Cure Upgrade (Heal Component)
     </details>
 
-## Thaumaturgical Flux & Warp
-* **Thaumaturgical Flux** is the byproduct of wayward magic. It is basic, and will neutralise Gaseous Vis. If left uncleaned, it will inevitably begin to warp its surroundings. It can be stored within magical wards.
-* **Warp** is a malevolent form of magic, often caused by Thaumaturgical Flux. It is called such due to how it warps living beings it touches, inevitably draining and killing them, leaving nothing more than a husk animated by malevolent energy.
-  * Spreads from its epicenter, and can only be contained by either magical wards or a specific magical plant.
-  * Will affect all instances of LivingEntity.
-  * Is required for, and can be gained by, some forbidden research.
+## Thaumaturgical Flux
+* Thaumaturgical Flux is the byproduct of wayward magic. It is basic, and will neutralise Gaseous Vis. If left uncleaned, it will inevitably begin to warp its surroundings. It can be stored within magical wards.
+
+## Warp
+* Warp is a malevolent form of magic, often caused by [Thaumaturgical Flux](#thaumaturgical-flux). It is called such due to how it warps living beings it touches, inevitably draining and killing them, leaving nothing more than a husk animated by malevolent energy.
+  * Spreads from its epicenter, and can only be contained by either magical wards or deep bodies of water.
+    * Warp can be cured by use of a magical plant that can be synthesized by experienced Thaumaturges.
+  * Will affect all instances of LivingEntity to create [Warped Abominations](#warped-abominations).
+  * Is required for, and can be gained by, forbidden research topics.
 
 ## Warped Abominations
 *
