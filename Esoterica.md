@@ -175,7 +175,7 @@
   * **Thaumaturgy:**
     * Contains research pertaining to castable magic, as well as magical processes and machines used in other schools of magic.
   * **Alchemy:**
-    * Contains research, particularly pertaining to Gaseous Vis and its uses.
+    * Contains research, particularly pertaining to Gaseous Vis and its uses, as well as to most applications of Warp.
   * **Artifice:**
     * Contains research on how to augment physical mechanical objects with magic to make them more useful.
   * **Homunculi:**
