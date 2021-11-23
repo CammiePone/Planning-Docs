@@ -40,6 +40,12 @@
 - [x] Shields now go on a 2 second cooldown if you release right click for the first half second of the shield being active
 - [x] Shields only block 5 damage from direct attacks
 
+## Armour
+- [ ] Leather Armour gives 25% cold resistance
+- [ ] Chainmail Armour gives 25% projectile resistance
+- [ ] Gold Armour gives 25% magic resistance
+- [ ] Netherite Armour gives 25% fire resistance
+
 ## Projectiles
 - [x] Arrows have no random deviation
 - [x] Projectiles check in a wider area for if they hit a flying player
