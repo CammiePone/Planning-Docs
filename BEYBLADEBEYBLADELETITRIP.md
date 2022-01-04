@@ -29,7 +29,7 @@
 - 🟢 **Slippery Jelly** - throwable that creates a patch of extra slippery ground that makes it hard to control while on top of
 
 ## Gamemodes
-- 🔴 Free For All
-- 🟡 Capture The Flag
-- 🟢 Team Deathmatch
-- 🟢 Böll
+- 🔴 **Free For All** - 
+- 🟡 **Capture The Flag** - 
+- 🟢 **Team Deathmatch** - 
+- 🟢 **Böll** - 
