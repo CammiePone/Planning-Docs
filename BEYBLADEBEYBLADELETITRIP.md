@@ -30,6 +30,6 @@
 
 ## Gamemodes
 - 🔴 Free For All
-- 🟢 Team Deathmatch
 - 🟡 Capture The Flag
+- 🟢 Team Deathmatch
 - 🟢 Böll
