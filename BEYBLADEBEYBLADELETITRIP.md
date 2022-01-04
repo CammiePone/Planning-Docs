@@ -1,10 +1,5 @@
 # \<Name Needed>
 
-## Priority
-- 🔴 - High Priority
-- 🟡 - Medium Priority
-- 🟢 - Low Priority
-
 ## Controls
 - 🔴 The entire game can be controlled without the use of a controller, instead using the body to create inputs
   - Crouch to increase top's torque to keep it spinning
@@ -29,7 +24,12 @@
 - 🟢 **Slippery Jelly** - throwable that creates a patch of extra slippery ground that makes it hard to control while on top of
 
 ## Gamemodes
-- 🔴 **Free For All** - 
+- 🔴 **Last Man Spinning** - a free-for-all gamemode where whoever is the last player with their top still spinning wins the match. The goal of the gamemode is to eliminate other players by any means necessary to ensure you're the last one standing
 - 🟡 **Capture The Flag** - 
 - 🟢 **Team Deathmatch** - 
-- 🟢 **Böll** - 
+- 🟢 **Böll** - basketball, but without dribbling and on tops. You can pass the ball to teammates, but if you get bumped, or hit a hazard, you drop the ball. Other players can also swipe the ball right out of your hands if they get close enough. The ball itself is significantly larger than a basketball, and bumping into it while it's on the ground will knock it into the air for you to grab
+
+## Priority
+- 🔴 - High Priority
+- 🟡 - Medium Priority
+- 🟢 - Low Priority
