@@ -177,7 +177,29 @@
     * <details>
         <summary>Research Contents:</summary>
  
-        * AAAAA
+        * Vis & Vis Accessories - covers the types of Vis
+          * Requirements: None
+        * Grimoire - covers how to make and use the Grimoire
+          * Requirements: None
+          * Research - teaches about research puzzle
+            * Field Studies - teaches about field studies
+            * Knowledge Fragments - knowledge fragment recipe
+            * Research Duplication - ability to duplicate research
+              * Tome of Knowledge - tome of knowledge recipe
+        * Nodes - explains how nodes work
+          * Requirements: None
+          * Advanced Node Tapping - draw Vis from nodes faster
+            * Mader Node Tapping - draw Vis from nodes even faster
+            * Node Preserver - don't draw all the Vis from a node
+            * Node in a Jar - lets you jar nodes
+        * Crystal Shards - covers how to find crystal shards imbued with Vis
+          * Requirements: None
+        * Flora & Fauna - covers the natural flora and fauna added by the mod
+          * Requirements: None
+        * Warped Biology - explains warped abominations
+          * Requirements: Come across [Warped Abominations](#warped-abominations)
+        * Cult of Truth - explains the cult of truth
+          * Requirements: Meet the [Cult of Truth](#the-cult-of-truth)
       </details>
   * **Thaumaturgy:**
     * Contains research pertaining to castable magic, as well as magical processes and machines used in other schools of magic.
