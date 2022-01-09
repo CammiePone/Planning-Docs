@@ -174,16 +174,46 @@
 * There are five Schools of Magic (+the fundamentals), each having its own section within the Grimoire, the research/guide book for Esoterica.
   * **Fundamentals:**
     * Contains the starting research for the player to get into the mod.
+    * <details>
+        <summary>Research Contents:</summary>
+ 
+        * AAAAA
+      </details>
   * **Thaumaturgy:**
     * Contains research pertaining to castable magic, as well as magical processes and machines used in other schools of magic.
+    * <details>
+        <summary>Research Contents:</summary>
+ 
+        * AAAAA
+      </details>
   * **Alchemy:**
     * Contains research, particularly pertaining to Gaseous Vis and its uses, as well as to most applications of Warp.
+    * <details>
+        <summary>Research Contents:</summary>
+ 
+        * AAAAA
+      </details>
   * **Artifice:**
     * Contains research on how to augment physical mechanical objects with magic to make them more useful.
+    * <details>
+        <summary>Research Contents:</summary>
+ 
+        * AAAAA
+      </details>
   * **Homunculi:**
     * Contains research on how to make and use Homunculi. Go to the [Homunculi Section](#homunculi) for more info.
+    * <details>
+        <summary>Research Contents:</summary>
+
+        * AAAAA
+      </details>
   * **Apocrypha:**
     * Contains research on magic long forgotten to history, all of it highly forbidden and dangerous if you should delve deeper into it.
+    * <details>
+        <summary>Research Contents:</summary>
+ 
+        * AAAAA
+      </details>
 
 ## Homunculi
 * Homunculi are soulless, artificial humanoids. They will not, on their own, do anything aside from mill about and take up space, but with the right magical influence, can be put to use.
