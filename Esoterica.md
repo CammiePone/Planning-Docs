@@ -228,9 +228,15 @@
             * Blaze Rod Wand Core - covers how to make Blaze Rod Wand Cores, which will regenerate Ignis Vis when under 10%
             * Obsidian Wand Core - covers how to make Obsidian Wand Cores, which will regenerate Terra Vis when under 10%
             * Quartz Wand Core - covers how to make Quartz Wand Cores, which will regenerate Empyreo Vis when under 10%
-          * Basic Spellcraft - covers how to create basic spells (unlocks the Touch Spell Shape and Damage Spell Effect)
+          * Basic Spellcraft - covers how to create basic spells (unlocks the Touch, Beam, and Self Spell Shapes and Heal and Mine Spell Effects)
             * I'm too lazy to write out every bit of research for each of the Spell Shapes, Spell Effects, and Spell Upgrades rn
             * AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        * Node Stabiliser - covers how to make a Node Stabiliser
+          * Requirements: Node in a Jar
+          * Vis Relays - covers how to make and use Vis Relays and Vis Charging Relays
+          * Wand Recharge Pedestal - covers how to make a Wand Recharge Pedestal
+            * Vis Storage - covers how to make an Amulet of Vis Storage
+          * Focal Manipulator - covers how to make and use a Focal Manipulator
       </details>
   * **Alchemy:**
     * Contains research, particularly pertaining to Gaseous Vis and its uses, as well as to most applications of Warp.
