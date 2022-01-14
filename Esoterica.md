@@ -21,6 +21,10 @@
   * The items placed on the Auxiliary Pedestals will be picked up one at a time from their pedestal and will slowly spiral into the Infusion Matrix, before disappearing.
   * The Infusion ends when the Central Pedestal Item is lifted up into the Infusion Matrix and infused with the Gaseous Vis and essence of the auxiliar items. It will then be placed back into the Central Pedestal and the ritual ends.
 
+## Arcane Table
+* Haha funni magic crafting table go BRRRRRRRRR!
+* Uses Vis in recipes, obtained from Wands placed in the Wand slot.
+
 ## Vis
 * Made up of five Primal Vis:
   * **Aqua (Water)** - Strong against Ignis and Empyreo. Associated with the South.
@@ -99,6 +103,11 @@
   * **Caps** - Affects the Vis affinity of a wand.
 * Vis Affinity affects how much of a specific Vis element a spell will cost (i.e. an Ignis affinity will reduce the Ignis cost of spells).
 * Some Wand Cores and Wand Caps can have special attributes tied to them but no other.
+
+## Staves
+* Similar to Wands, using Wand Cores and Wand Caps.
+* Cannot be used in the Arcane Table for crafting purposes, like Wands can.
+* Contain more Vis than their Wand counterparts.
 
 ## Spells
 * There are two Spell Components:
@@ -206,7 +215,22 @@
     * <details>
         <summary>Research Contents:</summary>
  
-        * AAAAA
+        * Basic Wandcraft - covers how to make a basic wooden iron-capped wand
+          * Requirements: None
+          * Golden Wand Caps - covers how to make Golden Wand Caps
+            * Magical Wand Caps - covers how to make Inert Magical Wand Caps from Copper and Thaumium, as well as infuse them to make them active
+              * Elemental Cap Infusions - specific infusions on Inert Magical Wand Caps to make them active and give them a specific Vis Affinity
+          * Greatwood Wand Core - covers how to make Greatwood Wand Cores
+            * Silverwood Wand Core - covers how to make Silverwood Wand Cores
+              * Magic Staves - covers how to make (Staves)[#staves]
+            * Icy Wand Core - covers how to make Icy Wand Cores, which will regenerate Aqua Vis when under 10%
+            * Reed Wand Core - covers how to make Reed Wand Cores, which will regenerate Ventus Vis when under 10%
+            * Blaze Rod Wand Core - covers how to make Blaze Rod Wand Cores, which will regenerate Ignis Vis when under 10%
+            * Obsidian Wand Core - covers how to make Obsidian Wand Cores, which will regenerate Terra Vis when under 10%
+            * Quartz Wand Core - covers how to make Quartz Wand Cores, which will regenerate Empyreo Vis when under 10%
+          * Basic Spellcraft - covers how to create basic spells (unlocks the Touch Spell Shape and Damage Spell Effect)
+            * I'm too lazy to write out every bit of research for each of the Spell Shapes, Spell Effects, and Spell Upgrades rn
+            * AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
       </details>
   * **Alchemy:**
     * Contains research, particularly pertaining to Gaseous Vis and its uses, as well as to most applications of Warp.
