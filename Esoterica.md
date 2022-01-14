@@ -137,6 +137,7 @@
       * Pushing Effect
       * Fire Effect
       * Ice Effect
+      * Warping Effect
       * Fertiliser Effect
       * Warding Effect
     </details>
@@ -228,15 +229,37 @@
             * Blaze Rod Wand Core - covers how to make Blaze Rod Wand Cores, which will regenerate Ignis Vis when under 10%
             * Obsidian Wand Core - covers how to make Obsidian Wand Cores, which will regenerate Terra Vis when under 10%
             * Quartz Wand Core - covers how to make Quartz Wand Cores, which will regenerate Empyreo Vis when under 10%
-          * Basic Spellcraft - covers how to create basic spells (unlocks the Touch, Beam, and Self Spell Shapes and Heal and Mine Spell Effects)
-            * I'm too lazy to write out every bit of research for each of the Spell Shapes, Spell Effects, and Spell Upgrades rn
-            * AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+          * Basic Spellcraft - covers how to create Spells
+            * Requirements: None
+            * Spell Shapes - covers the basics of Spell Shapes
+              * Beam - covers how to make the Beam Spell Shape
+              * Projectile - covers how to make the Projectile Spell Shape
+              * Touch - covers how to make the Touch Spell Shape
+              * Trap - covers how to make the Trap Spell Shape
+              * Explosion - covers how to make the Explosion Spell Shape
+              * Cloud - covers how to make the Cloud Spell Shape
+              * Lob - covers how to make the Lob Spell Shape
+              * Self - covers how to make the Self Spell Shape
+            * Spell Effects - covers the basics of Spell Effects
+              * Mine - covers how to make the Mine Spell Effect
+              * Heal - covers how to make the Heal spell Effect
+              * Shielding - covers how to make the Shield Spell Effect
+              * Teleport - covers how to make the Teleport Spell Effect
+              * Jamming - covers how to make the Jammer Spell Effect
+              * Pulling - covers how to make the Pulling Spell Effect
+              * Pushing - covers how to make the Pushing Spell Effect
+              * Fire - covers how to make the Fire Spell Effect
+              * Ice - covers how to make the Ice Spell Effect
+              * Warping - covers how to make the Warping Spell Effect
+              * Fertiliser - covers how to make the Fertiliser Spell Effect
+              * Warding - covers how to make the Warding Spell Effect
         * Node Stabiliser - covers how to make a Node Stabiliser
           * Requirements: Node in a Jar
           * Vis Relays - covers how to make and use Vis Relays and Vis Charging Relays
           * Wand Recharge Pedestal - covers how to make a Wand Recharge Pedestal
             * Vis Storage - covers how to make an Amulet of Vis Storage
           * Focal Manipulator - covers how to make and use a Focal Manipulator
+            * Spell Upgrades - covers the basics of upgrading your Spells, and unlocks them all
       </details>
   * **Alchemy:**
     * Contains research, particularly pertaining to Gaseous Vis and its uses, as well as to most applications of Warp.
