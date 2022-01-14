@@ -22,8 +22,9 @@
   * The Infusion ends when the Central Pedestal Item is lifted up into the Infusion Matrix and infused with the Gaseous Vis and essence of the auxiliar items. It will then be placed back into the Central Pedestal and the ritual ends.
 
 ## Arcane Table
+* Uses Vis in, otherwise normal, 3x3 crafting grid recipes, obtained from Wands placed in the Wand slot.
+  * Can be used as a normal Crafting Table.
 * Haha funni magic crafting table go BRRRRRRRRR!
-* Uses Vis in recipes, obtained from Wands placed in the Wand slot.
 
 ## Vis
 * Made up of five Primal Vis:
