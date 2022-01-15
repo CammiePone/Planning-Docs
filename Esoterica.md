@@ -267,14 +267,30 @@
     * <details>
         <summary>Research Contents:</summary>
  
-        * AAAAA
+        * Glass Phial
+          * Requirements: None
+        * Basic Alchemy - teaches how to turn Vis Shards into Salis Mundus
+          * Requirements: None
+          * Nitor - covers how to make Nitor
+          * Alumentum - covers how to make Alumentum
+            * Gaseous Vis - covers how to create the multiblock to turn Ethereal Vis into Gaseous Vis
+              * Requirements: Nitor, Node Stabiliser
+              * Vis Tanks - covers how to create Vis Tanks
+                * Void Tank - covers how to create a Void Tank
+              * Vis Pipes - covers how to create Vis Pipes and the mechanics they have
+                * Vis Crystalisation - covers how to create Vis Shards
+                * Advanced Vis Pipes - covers how to create Filtered Vis Pipes
+                  * Gaseous Distillation - covers how to create a Vis Distillary to separate Compound and Complimentary Vis into Primal Vis 
+          * Ethereal Bloom - covers how to make Ethereal Bloom
+          * Magical Metallurgy - covers how to make Thaumium metal
+            * Maybe do something here? Idk yet
       </details>
   * **Artifice:**
     * Contains research on how to augment physical mechanical objects with magic to make them more useful.
     * <details>
         <summary>Research Contents:</summary>
  
-        * AAAAA
+        * Infusion - covers how to make, and use, an Infusion Altar
       </details>
   * **Homunculi:**
     * Contains research on how to make and use Homunculi. Go to the [Homunculi Section](#homunculi) for more info.
