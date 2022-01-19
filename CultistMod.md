@@ -3,18 +3,22 @@
 ## Cults
 * Each cult has a specific animal they venerate and identify with, wearing skulls of deceased members of that animal on their heads to mask their identity.
 * These cults guard (Gemstone Slates)[#gemstone-slates]. These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
-* **Cult 1**
+* **Cult of Space**
   * Wears Horse skulls
   * Guards the Emerald Slate
-* **Cult 2**
+  * Found in the North
+* **Cult of Time**
   * Wears Hoglin skulls
   * Guards the Quartz Slate
-* **Cult 3**
+  * Found in the South
+* **Cult of Magic**
   * Wears Goat skulls
   * Guards the Amethyst Slate
-* **Cult 4**
+  * Found in the East
+* **Cult of Death**
   * Wears Dragon skulls
   * Guards the Diamond Slate
+  * Found in the West
 
 ## Temples
 * 
@@ -29,7 +33,7 @@
   * Amethyst Slate (Domain: Magic)
     * ???
   * Diamond Slate (Domain: Death)
-    * ???
+    * Lets you raise much stronger undead to fight for you
 
 ## Dialogue System
 * There will be a dialogue system, with given speech checks players can pass or fail to gain additional gear and information from Critical NPCs.
