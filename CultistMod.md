@@ -5,13 +5,13 @@
 * These cults guard (Gemstone Slates)[#gemstone-slates]. These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
 * **Cult 1**
   * Wears Goat skulls
-  * Guards the Amethyst Slate
+  * Guards the Emerald Slate
 * **Cult 2**
   * Wears Hoglin skulls
-  * Guards the Emerald Slate
+  * Guards the Quartz Slate
 * **Cult 3**
   * Wears Horse skulls
-  * Guards the Quartz Slate
+  * Guards the Amethyst Slate
 
 ## Temples
 * 
