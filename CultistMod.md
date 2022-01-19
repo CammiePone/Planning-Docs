@@ -4,11 +4,14 @@
 * Each cult has a specific animal they venerate and identify with, wearing skulls of deceased members of that animal on their heads to mask their identity.
 * These cults guard (Gemstone Slates)[#gemstone-slates]. These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
 * **Cult 1**
-  * Wear Goat skulls
-  * Guards the Amethyst and Quartz Slates
+  * Wears Goat skulls
+  * Guards the Amethyst Slate
 * **Cult 2**
-  * Wear Hoglin skulls
-  * Guards the Emerald and Diamond Slates
+  * Wears Hoglin skulls
+  * Guards the Emerald Slate
+* **Cult 3**
+  * Wears Horse skulls
+  * Guards the Quartz Slate
 
 ## Temples
 * 
