@@ -16,7 +16,7 @@
   * Found in the South
   * Guards the Quartz Slate
 * **Cult of The Spring**
-  * Wear Cow skulls
+  * Wear Goat skulls
   * Found in the West
   * Guards the Diamond Slate
 
