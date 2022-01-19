@@ -2,29 +2,19 @@
 
 ## Cults
 * Each cult has a specific animal they venerate and identify with, wearing skulls of deceased members of that animal on their heads to mask their identity.
-* These cults all guard (Gemstone Slates)[#gemstone-slates]. These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
-* **Cult of The Summer**
-  * Wear Horse skulls
-  * Found in the North
-  * Guards the Amethyst Slate
-* **Cult of The Fall**
-  * Wear Human/Skeleton skulls
-  * Found in the East
-  * Guards the Emerald Slate
-* **Cult of The Winter**
-  * Wear Pig/Hoglin skulls
-  * Found in the South
-  * Guards the Quartz Slate
-* **Cult of The Spring**
+* These cults guard (Gemstone Slates)[#gemstone-slates]. These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
+* **Cult 1**
   * Wear Goat skulls
-  * Found in the West
-  * Guards the Diamond Slate
+  * Guards the Amethyst and Quartz Slates
+* **Cult 2**
+  * Wear Hoglin skulls
+  * Guards the Emerald and Diamond Slates
 
 ## Temples
 * 
 
 ## Gemstone Slates
-* When brought together in a ritual at the middle of the world, these slates will summon an ancient temple from below the Earth to tower over the land once more. Within this temple houses an ancient magic only those deemed worthy can harness.
+* When brought together in a ritual at a given location (which the player will be given from both cults), these slates will summon an ancient temple from below the Earth to tower over the land once more. Within this temple houses an ancient magic only those deemed worthy can harness.
 * 
 
 ## Dialogue System
