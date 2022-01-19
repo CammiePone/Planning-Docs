@@ -18,5 +18,8 @@
   * Found in the West
   * Guards the Diamond Slate
 
+## Temples
+* 
+
 ## Slates
 * 
