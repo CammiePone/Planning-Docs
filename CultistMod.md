@@ -12,6 +12,9 @@
 * **Cult 3**
   * Wears Goat skulls
   * Guards the Amethyst Slate
+* **Cult 4**
+  * Wears Dragon skulls
+  * Guards the Diamond Slate
 
 ## Temples
 * 
@@ -24,6 +27,8 @@
   * Quartz Slate (Domain: Time)
     * ???
   * Amethyst Slate (Domain: Magic)
+    * ???
+  * Diamond Slate (Domain: Death)
     * ???
 
 ## Dialogue System
