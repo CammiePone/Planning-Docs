@@ -16,7 +16,7 @@
     * Guards the Amethyst Slate
     * Found in the East
   * **Cult of Death**
-    * Wears Dragon skulls
+    * Wears Wolf skulls
     * Guards the Diamond Slate
     * Found in the West
 * Each Cult has rankings the player needs to climb up before they'll be granted access to the [Temple](#temples) associated with that Cult.
