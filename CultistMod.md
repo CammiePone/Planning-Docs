@@ -1,30 +1,31 @@
 # Cultist Mod
 
 ## Cults
-* Each cult has a specific animal they venerate and identify with, wearing skulls of deceased members of that animal on their heads to mask their identity.
-* These cults guard (Gemstone Slates)[#gemstone-slates]. These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
-* **Cult of Space**
-  * Wears Horse skulls
-  * Guards the Emerald Slate
-  * Found in the North
-* **Cult of Time**
-  * Wears Hoglin skulls
-  * Guards the Quartz Slate
-  * Found in the South
-* **Cult of Magic**
-  * Wears Goat skulls
-  * Guards the Amethyst Slate
-  * Found in the East
-* **Cult of Death**
-  * Wears Dragon skulls
-  * Guards the Diamond Slate
-  * Found in the West
+* Each Cult has a specific animal they venerate and identify with, wearing skulls of deceased members of that animal on their heads to mask their identity.
+* These Cults guard (Gemstone Slates)[#gemstone-slates]. These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
+  * **Cult of Space**
+    * Wears Horse skulls
+    * Guards the Emerald Slate
+    * Found in the North
+  * **Cult of Time**
+    * Wears Hoglin skulls
+    * Guards the Quartz Slate
+    * Found in the South
+  * **Cult of Magic**
+    * Wears Goat skulls
+    * Guards the Amethyst Slate
+    * Found in the East
+  * **Cult of Death**
+    * Wears Dragon skulls
+    * Guards the Diamond Slate
+    * Found in the West
+* Each Cult has rankings the player needs to climb up before they'll be granted access to the (Temple)[#temples] associated with that Cult.
 
 ## Temples
 * 
 
 ## Gemstone Slates
-* When brought together in a ritual at a given location (which the player will be given from both cults), these slates will summon an ancient temple from below the Earth to tower over the land once more. Within this temple houses an ancient magic only those deemed worthy can harness.
+* When brought together in a ritual at a given location (which the player will be given from both (Cults)[#cults]), these slates will summon an ancient temple from below the Earth to tower over the land once more. Within this temple houses an ancient magic only those deemed worthy can harness.
 * Aquiring a Gemstone Slate will grant the player a power related to the slate's domain.
   * Emerald Slate (Domain: Space)
     * Allows you to create holes in space, temporarily tearing through reality itself to allow you to pass
