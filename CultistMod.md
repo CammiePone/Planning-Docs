@@ -37,6 +37,6 @@
     * Lets you raise much stronger undead to fight for you
 
 ## Dialogue System
-* There will be a dialogue system, with given speech checks players can pass or fail to gain additional gear and information from Critical NPCs.
+* There will be a dialogue system, with given speech checks players can pass - usually related to their ranking within the 4 [Cults](#cults) - or fail to gain additional gear and information from Critical NPCs.
   * Critical NPCs cannot be killed or moved, as they're needed for other players. The will instead simply teleport away when attacked, leaving the respawning entities to attack the player.
 * The dialogue system will have the NPC speak when the player Right Clicks them, and then give the player response options. You can usually retry most conversations, but some branches may be locked off if you insult or otherwise demean a Critical NPC.
