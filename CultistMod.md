@@ -27,13 +27,13 @@
 ## Gemstone Slates
 * When brought together in a ritual at a given location (which the player will be given from both [Cults](#cults)), these slates will summon an ancient temple from below the Earth to tower over the land once more. Within this temple houses an ancient magic only those deemed worthy can harness.
 * Aquiring a Gemstone Slate will grant the player a power related to the slate's domain.
-  * Emerald Slate (Domain: Space)
+  * **Emerald Slate (Domain: Space)**
     * Allows you to create holes in space, temporarily tearing through reality itself to allow you to pass
-  * Quartz Slate (Domain: Time)
+  * **Quartz Slate (Domain: Time)**
     * ???
-  * Amethyst Slate (Domain: Magic)
+  * **Amethyst Slate (Domain: Magic)**
     * ???
-  * Diamond Slate (Domain: Death)
+  * **Diamond Slate (Domain: Death)**
     * Lets you raise much stronger undead to fight for you
 
 ## Dialogue System
