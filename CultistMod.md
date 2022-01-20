@@ -5,7 +5,7 @@
 * These Cults guard [Gemstone Slates](#gemstone-slates). These slates are of ancient origin, and no one knows what will happen if all four slates are brought together.
   * **Cult of Time**
     * Wears Horse skulls
-    * Guards the Emerald Slate
+    * Guards the Diamond Slate
     * Found in the North
   * **Cult of Space**
     * Wears Hoglin skulls
@@ -17,7 +17,7 @@
     * Found in the East
   * **Cult of Death**
     * Wears Wolf skulls
-    * Guards the Diamond Slate
+    * Guards the Emerald Slate
     * Found in the West
 * Each Cult has rankings the player needs to climb up before they'll be granted access to the [Temple](#temples) associated with that Cult.
 
@@ -27,13 +27,13 @@
 ## Gemstone Slates
 * When brought together in a ritual at a given location (which the player will be given from both [Cults](#cults)), these slates will summon an ancient temple from below the Earth to tower over the land once more. Within this temple houses an ancient magic only those deemed worthy can harness.
 * Aquiring a Gemstone Slate will grant the player a power related to the slate's domain.
-  * **Emerald Slate (Domain: Time)**
+  * **Diamond Slate (Domain: Time)**
     * ???
   * **Quartz Slate (Domain: Space)**
     * Allows you to create holes in space, temporarily tearing through reality itself to allow you to pass
   * **Amethyst Slate (Domain: Magic)**
     * ???
-  * **Diamond Slate (Domain: Death)**
+  * **Emerald Slate (Domain: Death)**
     * Lets you raise much stronger undead to fight for you
 
 ## Dialogue System
