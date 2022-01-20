@@ -1,4 +1,4 @@
-# Mystic Murmurs
+# Mystic Murmuring
 
 ## Cults
 * Each Cult has a specific animal they venerate and identify with, wearing skulls of deceased members of that animal on their heads to mask their identity.
