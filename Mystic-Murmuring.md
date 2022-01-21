@@ -32,7 +32,7 @@
   * **Quartz Slate (Domain: Space)**
     * Allows the player to create holes in space, temporarily tearing through reality itself to allow passage
   * **Amethyst Slate (Domain: Magic)**
-    * ???
+    * Grants the player access to Eldritch Blast (cherry flavoured, of course)
   * **Emerald Slate (Domain: Death)**
     * Lets the player raise much stronger undead to fight for the player
 
