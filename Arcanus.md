@@ -25,10 +25,10 @@
   - [ ] Mana Flasks can be refilled with the same ritual used to reinvigorate the player's mana pool.
 
 ## Spells
-- [ ] 
+- [ ] \[placeholder]
 
 ## Trinkets
-- [ ] 
+- [ ] \[placeholder]
 
 ## Origins Compat:
 - [ ] Players can select the Mage Origin.
