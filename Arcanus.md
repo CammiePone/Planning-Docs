@@ -1,11 +1,13 @@
 # Arcanus 2
 
 ## Casting System
-- [ ] \[Manner of casting TBD]
-- [ ] A selected spell, known as a Spell Charge, will appear at the bottom right side of the screen.
+- [ ] Casting is handled by selecting a spell in a radial menu, setting the player's Spell Charge to the selected spell.
+  - [ ] The player's Spell Charge will display at the bottom right side of the screen.
+  - [ ] The player can open the spell selection screen by holding Right Click while holding a wand, and select a spell by mousing over it and letting go of Right Click.
+  - [ ] The player can cast their Spell Charge by Left Clicking.
 - [ ] Spells have 3 levels of complexity, each consuming a certain amount of mana:
   - [ ] Simple (1 mana)
-  - [ ] \[Placeholder] (2 mana)
+  - [ ] Intricate (2 mana)
   - [ ] Complex (3 mana)
 - [ ] The player has 8 spell slots in total, attached to the player directly, rather than the wand.
 
@@ -25,10 +27,11 @@
   - [ ] Mana Flasks can be refilled with the same ritual used to reinvigorate the player's mana pool.
 
 ## Spells
-- [ ] \[placeholder]
+- [ ] ???
 
 ## Trinkets
-- [ ] \[placeholder]
+- [ ] Wand
+- [ ] ???
 
 ## Origins Compat:
 - [ ] Players can select the Mage Origin.
