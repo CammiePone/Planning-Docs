@@ -1,4 +1,4 @@
-# Arcanus 1.18 (new)
+# Arcanus 2
 
 ## Casting System
 - [ ] Spells are selected by stringing together 3 "bits" (Left or Right Click) using a wand.
@@ -40,7 +40,7 @@
 
 ---
 
-# Arcanus 1.17 (old)
+# Arcanus 1
 
 ## General
 - [x] Wands will progress with time to make casting cheaper.
