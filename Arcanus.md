@@ -1,7 +1,7 @@
 # Arcanus 2
 
 ## Casting System
-- [ ] Spells are selected by stringing together 3 "bits" (Left or Right Click) using a wand.
+- [ ] \[Manner of casting TBD]
 - [ ] A selected spell, known as a Spell Charge, will appear at the bottom right side of the screen.
 - [ ] Spells have 3 levels of complexity, each consuming a certain amount of mana:
   - [ ] Simple (1 mana)
