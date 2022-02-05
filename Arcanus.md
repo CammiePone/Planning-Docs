@@ -47,10 +47,12 @@
 
 ## Origins Compat:
 - [ ] Players can select the Mage Origin.
-  - [ ] + Gains boosts to spell casting.
-  - [ ] - 50% worse with melee weapons.
-  - [ ] - Non-magical armours give reduced protection.
-  - [ ] - Unwieldy /s
+  - [ ] + Starts with 4 spell slots.
+  - [ ] + Spells are get a +2 to potency.
+  - [ ] + Spells cost one less mana.
+  - [ ] - Melee weapons deal 50% damage.
+  - [ ] - Non-magical armours only give 75% protection.
+  - [ ] - Unwieldy
 - [ ] Players can select their School of Magic if they select the Mage Origin.
 
 ---
