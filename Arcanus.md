@@ -48,7 +48,7 @@
 ## Origins Compat:
 - [ ] Players can select the Mage Origin.
   - [ ] + Starts with 4 spell slots.
-  - [ ] + Spells are get a +2 to potency.
+  - [ ] + Spells get a +2 to potency.
   - [ ] + Spells cost one less mana.
   - [ ] - Melee weapons deal 50% damage.
   - [ ] - Non-magical armours only give 75% protection.
