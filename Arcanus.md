@@ -52,7 +52,6 @@
   - [ ] + Spells cost one less mana.
   - [ ] - Melee weapons deal 50% damage.
   - [ ] - Non-magical armours only give 75% protection.
-  - [ ] - Can't use shields because dumb mage arms too weak :hahayes:
 - [ ] Players can select their School of Magic if they select the Mage Origin.
 
 ---
