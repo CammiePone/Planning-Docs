@@ -9,7 +9,10 @@
   - [ ] Simple (1 mana)
   - [ ] Intricate (2 mana)
   - [ ] Complex (3 mana)
-- [ ] The player has 8 spell slots in total, attached to the player directly, rather than the wand.
+
+## Spell Slots
+- [ ] Spell slots are directly attached to the player, rather than to the wand.
+- [ ] The player starts with 2 spell slots, and can gain more (up to 10) through mastering magic.
 
 ## Schools of Magic
 - [ ] Spells fall into one of 5 Schools of Magic:
