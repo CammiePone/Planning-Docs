@@ -16,11 +16,11 @@
 
 ## Schools of Magic
 - [ ] Spells fall into one of 5 Schools of Magic:
-  - [ ] Abjuration - protective spells, and spells that block magic.
-  - [ ] Charm - spells that alter the minds of targets.
-  - [ ] Conjuration - instant transportation, summoning creatures, and object creation.
-  - [ ] Evocation - spells focused on creating matter and energy from nothing.
-  - [ ] Illusion - changing the appearance of something, while being unable to interact with the world.
+  - [ ] Enhancement - uses mana to increase the natural abilities of the body.
+  - [ ] Transmutation - changes the properties of mana to mimic something else.
+  - [ ] Emission - separates mana from the body and uses it as projectiles.
+  - [ ] Conjuration - creates physical objects out of mana.
+  - [ ] Manipulation - controls physical things (animate or inanimate).
 
 ## Mana
 - [ ] The player has 20 mana available to them.
@@ -30,15 +30,15 @@
   - [ ] Mana Flasks can be refilled with the same ritual used to reinvigorate the player's mana pool.
 
 ## Spells
-- [ ] Abjuration Spells
+- [ ] Enhancement Spells
   - [ ] ???
-- [ ] Charm Spells
+- [ ] Emission Spells
+  - [ ] ???
+- [ ] Transmutation Spells
+  - [ ] ???
+- [ ] Manipulation Spells
   - [ ] ???
 - [ ] Conjuration Spells
-  - [ ] ???
-- [ ] Evocation Spells
-  - [ ] ???
-- [ ] Illusion Spells
   - [ ] ???
 
 ## Trinkets
