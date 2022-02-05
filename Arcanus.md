@@ -53,6 +53,7 @@
   - [ ] - Melee weapons deal 50% damage.
   - [ ] - Non-magical armours only give 75% protection.
 - [ ] Players can select their School of Magic if they select the Mage Origin.
+  - [ ] Gives the Mage a simple spell from their selected School of Magic.
 
 ---
 
