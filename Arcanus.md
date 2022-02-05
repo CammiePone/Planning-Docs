@@ -46,7 +46,7 @@
 - [ ] ???
 
 ## Origins Compat:
-- [ ] Players can select the Mage Origin.
+- [ ] Players can select the Mage Origin, a human who dedicated their life to the study of magic.
   - [ ] + Starts with 4 spell slots.
   - [ ] + Spells get a +2 to potency.
   - [ ] + Spells cost one less mana.
