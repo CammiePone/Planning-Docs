@@ -47,7 +47,7 @@
 - [ ] Wand
 - [ ] Potion Belt
 
-## Origins Compat:
+## Origins Compat
 - [ ] Players can select the Mage Origin, a human who dedicated their life to the study of magic.
   - [ ] + Starts with 4 spell slots.
   - [ ] + Spells get a +2 to potency.
