@@ -35,6 +35,8 @@
 - [ ] Emission Spells
   - [ ] ???
 - [ ] Transmutation Spells
+  - [ ] Discharge (Simple)
+  - [ ] Ring of Fire (Simple)
   - [ ] ???
 - [ ] Manipulation Spells
   - [ ] ???
