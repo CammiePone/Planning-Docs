@@ -45,7 +45,7 @@
 
 ## Trinkets
 - [ ] Wand
-- [ ] ???
+- [ ] Potion Belt
 
 ## Origins Compat:
 - [ ] Players can select the Mage Origin, a human who dedicated their life to the study of magic.
