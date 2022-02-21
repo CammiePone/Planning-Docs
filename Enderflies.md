@@ -12,3 +12,6 @@
 ## Abilities
 - [ ] Can be used to spectate other players (confined to looking at them, only able to get closer/further, and rotate around them)
 - [ ] Can be given an item and/or a written book or book and quill to send to other players (only players their owner has met)
+
+## Meeting Players
+- [ ] You can meet a player by being within 15 blocks of them, or by looking at them through a spyglass
