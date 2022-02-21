@@ -11,4 +11,4 @@
 
 ## Abilities
 - [ ] Can be used to spectate other players (confined to looking at them, only able to get closer/further, and rotate around them)
-- [ ] Can be given written books and book and quills to send to other players (only players their owner has met)
+- [ ] Can be given an item to send to other players (only players their owner has met)
