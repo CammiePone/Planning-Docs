@@ -10,7 +10,7 @@
 - [ ] Will be automatically tamed when they hatch based on whoever placed them
 
 ## Abilities
-- [ ] Can be used to spectate other players (confined to looking at them, only able to get closer/further, and rotate around them)
+- [ ] Can be used to spectate other players (free-roam control, but can lock onto a player to stay following them)
 - [ ] Can be given an item and/or a written book or book and quill to send to other players (only players their owner has met)
 
 ## Meeting Players
