@@ -11,6 +11,7 @@
 
 ## Abilities
 - [ ] Can be used to spectate other players (free-roam control, but can lock onto a player to stay following them)
+  - [ ] Translucent to players, unless the player has Night Vision
 - [ ] Can be given an item and/or a written book or book and quill to send to other players (only players their owner has met)
 
 ## Meeting Players
