@@ -31,17 +31,40 @@
 
 ## Spells
 - [ ] Enhancement Spells
-  - [ ] ???
+  - [ ] Bark Skin (Simple)
+  - [ ] **???** (Simple)
+  - [ ] Iron Skin (Intricate)
+  - [ ] **???** (Intricate)
+  - [ ] **???** (Complex)
+  - [ ] **???** (Complex)
 - [ ] Emission Spells
-  - [ ] ???
+  - [ ] Magic Missile (Simple)
+  - [ ] **???** (Simple)
+  - [ ] **???** (Intricate)
+  - [ ] **???** (Intricate)
+  - [ ] **???** (Complex)
+  - [ ] **???** (Complex)
 - [ ] Transmutation Spells
   - [ ] Discharge (Simple)
   - [ ] Ring of Fire (Simple)
-  - [ ] ???
+  - [ ] Heal Self (Intricate)
+  - [ ] Blink (Intricate)
+  - [ ] Multi-Heal (Complex)
+  - [ ] Suppression Field (Complex)
 - [ ] Manipulation Spells
-  - [ ] ???
+  - [ ] Pacify (Simple)
+  - [ ] **???** (Simple)
+  - [ ] Arcane Lock (Intricate)
+  - [ ] **???** (Intricate)
+  - [ ] Ward (Complex)
+  - [ ] Turn Ally (Complex)
 - [ ] Conjuration Spells
-  - [ ] ???
+  - [ ] Arcane Hand (Simple)
+  - [ ] **???** (Simple)
+  - [ ] Black Tentacles (Intricate)
+  - [ ] **???** (Intricate)
+  - [ ] **???** (Complex)
+  - [ ] **???** (Complex)
 
 ## Trinkets
 - [ ] Wand
