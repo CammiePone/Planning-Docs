@@ -79,7 +79,7 @@
   - [ ] Ward (Intricate)
     - Makes blocks unbreakable until disspelled
   - [ ] Animate Armour (Complex)
-    - Animates armour stands to use whatever weapon and armour they're given
+    - Animates armour stands to use whatever weapons and armour they're given
   - [ ] Turn Ally (Complex)
     - Makes hostile mobs allies, making them fight for you
 - [ ] Conjuration Spells
