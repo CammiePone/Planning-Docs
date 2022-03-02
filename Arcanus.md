@@ -78,8 +78,8 @@
     - Locks containers so no one can open them until disspelled
   - [ ] Ward (Intricate)
     - Makes blocks unbreakable until disspelled
-  - [ ] **???** (Complex)
-    - ???
+  - [ ] Animate Armour (Complex)
+    - Animates armour stands to use whatever weapon and armour they're given
   - [ ] Turn Ally (Complex)
     - Makes hostile mobs allies, making them fight for you
 - [ ] Conjuration Spells
