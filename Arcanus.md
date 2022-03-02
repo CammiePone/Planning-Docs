@@ -32,39 +32,69 @@
 ## Spells
 - [ ] Enhancement Spells
   - [ ] Bark Skin (Simple)
+    - Decreases incoming damage by 3
   - [ ] **???** (Simple)
+    - ???
   - [ ] Iron Skin (Intricate)
+    - Decreases incoming damage by 5
   - [ ] **???** (Intricate)
+    - ???
   - [ ] **???** (Complex)
+    - ???
   - [ ] **???** (Complex)
+    - ???
 - [ ] Emission Spells
   - [ ] Magic Missile (Simple)
+    - Launches a weak magical projectile
   - [ ] **???** (Simple)
+    - ???
   - [ ] **???** (Intricate)
+    - ???
   - [ ] **???** (Intricate)
+    - ???
   - [ ] **???** (Complex)
+    - ???
   - [ ] **???** (Complex)
+    - ???
 - [ ] Transmutation Spells
   - [ ] Discharge (Simple)
+    - Creates an electrified field around you, stunning entities
   - [ ] Ring of Fire (Simple)
+    - Creates a ring of fire around you that ignites entities and blocks
   - [ ] Heal Self (Intricate)
+    - Heals you for 4 health
   - [ ] Blink (Intricate)
+    - Teleports you a short distance
   - [ ] Multi-Heal (Complex)
+    - Heals in a radius around you for 8 health
   - [ ] Suppression Field (Complex)
+    - Blocks all magic from being cast in a radius around you
 - [ ] Manipulation Spells
   - [ ] Pacify (Simple)
+    - Temporarily makes hostile mobs neutral
   - [ ] **???** (Simple)
+    - ???
   - [ ] Arcane Lock (Intricate)
+    - Locks containers so no one can open them until disspelled
   - [ ] **???** (Intricate)
+    - ???
   - [ ] Ward (Complex)
+    - Makes blocks unbreakable until disspelled
   - [ ] Turn Ally (Complex)
+    - Makes hostile mobs allies, making them fight for you
 - [ ] Conjuration Spells
   - [ ] Arcane Hand (Simple)
+    - Attacks anything nearby indiscriminently
   - [ ] **???** (Simple)
+    - ???
   - [ ] Black Tentacles (Intricate)
+    - Summons a ring of tentacles that will attack anything that gets too close
   - [ ] **???** (Intricate)
+    - ???
   - [ ] **???** (Complex)
+    - ???
   - [ ] **???** (Complex)
+    - ???
 
 ## Trinkets
 - [ ] Wand
