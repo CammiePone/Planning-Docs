@@ -48,12 +48,12 @@
     - Launches a weak magical projectile
   - [ ] **???** (Simple)
     - ???
-  - [ ] **???** (Intricate)
-    - ???
-  - [ ] **???** (Intricate)
-    - ???
-  - [ ] **???** (Complex)
-    - ???
+  - [ ] Excavate (Intricate)
+    - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone
+  - [ ] Mana Stream (Intricate)
+    - Fires a sustained, piercing beam of pure mana that damages entities
+  - [ ] Bouncing Charge (Complex)
+    - Fires a bouncing projectile that targets nearby entities
   - [ ] **???** (Complex)
     - ???
 - [ ] Transmutation Spells
@@ -72,10 +72,10 @@
 - [ ] Manipulation Spells
   - [ ] Pacify (Simple)
     - Temporarily makes hostile mobs neutral
-  - [ ] **???** (Simple)
-    - ???
-  - [ ] Arcane Lock (Intricate)
+  - [ ] Arcane Lock (Simple)
     - Locks containers so no one can open them until disspelled
+  - [ ] Telekinesis (Intricate)
+    - Allows you to pick up entities and blocks from a distance
   - [ ] Ward (Intricate)
     - Makes blocks unbreakable until disspelled
   - [ ] Animate Armour (Complex)
