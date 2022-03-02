@@ -76,10 +76,10 @@
     - ???
   - [ ] Arcane Lock (Intricate)
     - Locks containers so no one can open them until disspelled
-  - [ ] **???** (Intricate)
-    - ???
-  - [ ] Ward (Complex)
+  - [ ] Ward (Intricate)
     - Makes blocks unbreakable until disspelled
+  - [ ] **???** (Complex)
+    - ???
   - [ ] Turn Ally (Complex)
     - Makes hostile mobs allies, making them fight for you
 - [ ] Conjuration Spells
