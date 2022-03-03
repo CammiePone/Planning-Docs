@@ -48,9 +48,9 @@
     - ???
 - [ ] Emission Spells
   - [ ] Magic Missile (Simple)
-    - Launches a weak magical projectile
-  - [ ] **???** (Simple)
-    - ???
+    - Launches a weak projectile made of mana
+  - [ ] Chaos Bolt (Simple)
+    - Fires a bolt of mana that deals a random damage type to whatever it hits
   - [ ] Excavate (Intricate)
     - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone
   - [ ] Mana Stream (Intricate)
