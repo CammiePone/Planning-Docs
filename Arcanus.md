@@ -96,8 +96,8 @@
     - Creates a shadow-like entity that attacks anything that interacts with the block it's spawned in
   - [ ] Black Hole (Complex)
     - Summons a void in space that pulls all entities towards it and deals damage
-  - [ ] **???** (Complex)
-    - ???
+  - [ ] Satellite Dragonfly (Complex)
+    - Creates a dragongly-like entity that the player can control and see through
 
 ## Trinkets
 - [ ] Wand
