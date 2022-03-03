@@ -33,12 +33,12 @@
 - [ ] Enhancement Spells
   - [ ] Bark Skin (Simple)
     - Decreases incoming damage by 3
-  - [ ] **???** (Simple)
-    - ???
+  - [ ] Agile Strikes (Simple)
+    - Increases your mining and attack speed by 25%
   - [ ] Iron Skin (Intricate)
     - Decreases incoming damage by 5
-  - [ ] **???** (Intricate)
-    - ???
+  - [ ] Heavy Weight (Intricate)
+    - Immune to knockback and you deal damage to entities you fall on
   - [ ] **???** (Complex)
     - ???
   - [ ] **???** (Complex)
@@ -63,8 +63,8 @@
     - Creates a ring of fire around you that ignites entities and blocks
   - [ ] Heal Self (Intricate)
     - Heals you for 4 health
-  - [ ] Blink (Intricate)
-    - Teleports you a short distance
+  - [ ] **???** (Intricate)
+    - ???
   - [ ] Multi-Heal (Complex)
     - Heals in a radius around you for 8 health
   - [ ] Suppression Field (Complex)
