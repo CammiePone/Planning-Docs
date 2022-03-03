@@ -85,8 +85,8 @@
 - [ ] Conjuration Spells
   - [ ] Arcane Hand (Simple)
     - Attacks anything nearby indiscriminently
-  - [ ] **???** (Simple)
-    - ???
+  - [ ] Spring Totem (Simple)
+    - Creates a totem that will bonemeal nearby plants
   - [ ] Black Tentacles (Intricate)
     - Summons a ring of tentacles that will attack anything that gets too close
   - [ ] Summon Shade (Intricate)
