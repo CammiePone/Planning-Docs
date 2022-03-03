@@ -87,15 +87,15 @@
     - Makes hostile mobs allies, making them fight for you
 - [ ] Conjuration Spells
   - [ ] Arcane Hand (Simple)
-    - Attacks anything nearby indiscriminently
+    - Summons a magical hand that attacks anything nearby indiscriminently
   - [ ] Spring Totem (Simple)
     - Creates a totem that will bonemeal nearby plants
   - [ ] Black Tentacles (Intricate)
     - Summons a ring of tentacles that will attack anything that gets too close
   - [ ] Summon Shade (Intricate)
     - Creates a shadow-like entity that attacks anything that interacts with the block it's spawned in
-  - [ ] **???** (Complex)
-    - ???
+  - [ ] Black Hole (Complex)
+    - Summons a void in space that pulls all entities towards it and deals damage
   - [ ] **???** (Complex)
     - ???
 
