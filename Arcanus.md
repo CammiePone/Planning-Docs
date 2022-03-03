@@ -57,8 +57,8 @@
     - Fires a sustained, piercing beam of pure mana that damages entities
   - [ ] Bouncing Charge (Complex)
     - Fires a bouncing projectile that targets nearby entities
-  - [ ] **???** (Complex)
-    - ???
+  - [ ] Master Spark (Complex)
+    - Haha very powerful beam attack go BRRRRRRRR
 - [ ] Transmutation Spells
   - [ ] Discharge (Simple)
     - Creates an electrified field around you, stunning entities
