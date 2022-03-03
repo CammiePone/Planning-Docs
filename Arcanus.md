@@ -44,8 +44,8 @@
     - Immune to knockback and you deal damage to entities you fall on
   - [ ] Full Cowl (Complex)
     - Increases the player's speed, jump height, and damage for a short period of time
-  - [ ] **???** (Complex)
-    - ???
+  - [ ] Piercing Strike (Complex)
+    - Makes your next attack pierce armour and shields
 - [ ] Emission Spells
   - [ ] Magic Missile (Simple)
     - Launches a weak projectile made of mana
