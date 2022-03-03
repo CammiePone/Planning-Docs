@@ -89,8 +89,8 @@
     - ???
   - [ ] Black Tentacles (Intricate)
     - Summons a ring of tentacles that will attack anything that gets too close
-  - [ ] **???** (Intricate)
-    - ???
+  - [ ] Summon Shade (Intricate)
+    - Creates a shadow-like entity that attacks anything that interacts with the block it's spawned in
   - [ ] **???** (Complex)
     - ???
   - [ ] **???** (Complex)
