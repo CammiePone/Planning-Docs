@@ -63,8 +63,8 @@
     - Creates a ring of fire around you that ignites entities and blocks
   - [ ] Heal Self (Intricate)
     - Heals you for 4 health
-  - [ ] **???** (Intricate)
-    - ???
+  - [ ] Polarity (Intricate)
+    - If sneaking it pushes entities away from you, otherwise it pulls them towards you
   - [ ] Multi-Heal (Complex)
     - Heals in a radius around you for 8 health
   - [ ] Suppression Field (Complex)
