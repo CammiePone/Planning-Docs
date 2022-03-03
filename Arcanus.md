@@ -39,8 +39,8 @@
     - Decreases incoming damage by 5
   - [ ] Heavy Weight (Intricate)
     - Immune to knockback and you deal damage to entities you fall on
-  - [ ] **???** (Complex)
-    - ???
+  - [ ] Full Cowl (Complex)
+    - Increases the player's speed, jump height, and damage for a short period of time
   - [ ] **???** (Complex)
     - ???
 - [ ] Emission Spells
