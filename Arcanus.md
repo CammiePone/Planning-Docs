@@ -13,8 +13,8 @@
 ## Arcane Thingamajig
 - [ ] AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
-## Schools of Magic
-- [ ] Spells fall into one of 5 Schools of Magic:
+## Aura Types
+- [ ] Spells fall into one of 5 Aura Types:
   - [ ] Enhancement - uses aura to increase the natural abilities of the body.
   - [ ] Transmutation - changes the properties of aura to mimic something else.
   - [ ] Emission - separates aura from the body and uses it as projectiles.
