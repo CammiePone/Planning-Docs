@@ -20,6 +20,7 @@
   - [ ] Emission - separates aura from the body and uses it as projectiles.
   - [ ] Conjuration - creates physical objects out of aura.
   - [ ] Manipulation - controls physical things (animate or inanimate).
+- [ ] Players can give themselves an affinity with one of the 5 Aura Types through a ritual.
 
 ## Aura
 - [ ] The player has 20 aura available to them.
@@ -35,69 +36,69 @@
 ## Spells
 - [ ] Enhancement Spells
   - [ ] Bark Skin (Simple)
-    - Decreases incoming damage by 3
+    - Decreases incoming damage by 3.
   - [ ] Agile Strikes (Simple)
-    - Increases your mining and attack speed by 25%
+    - Increases your mining and attack speed by 25%.
   - [ ] Iron Skin (Intricate)
-    - Decreases incoming damage by 5
+    - Decreases incoming damage by 5.
   - [ ] Heavy Weight (Intricate)
-    - Immune to knockback and you deal damage to entities you fall on
+    - Immune to knockback and you deal damage to entities you fall on.
   - [ ] Full Cowl (Complex)
-    - Increases the player's speed, jump height, and damage for a short period of time
+    - Increases the player's speed, jump height, and damage for a short period of time.
   - [ ] Last Stand (Complex)
-    - Makes you survive on half a heart from an otherwise-fatal attack
+    - Makes you survive on half a heart from an otherwise-fatal attack.
 - [ ] Emission Spells
   - [ ] Magic Missile (Simple)
-    - Launches a weak projectile made of aura
+    - Launches a weak projectile made of aura.
   - [ ] Chaos Bolt (Simple)
-    - Fires a bolt of aura that deals a random damage type to whatever it hits
+    - Fires a bolt of aura that deals a random damage type to whatever it hits.
   - [ ] Excavate (Intricate)
-    - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone
+    - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone.
   - [ ] Aura Stream (Intricate)
-    - Fires a sustained, piercing beam of pure aura that damages entities
+    - Fires a sustained, piercing beam of pure aura that damages entities.
   - [ ] Bouncing Charge (Complex)
-    - Fires a bouncing projectile that targets nearby entities
+    - Fires a bouncing projectile that targets nearby entities.
   - [ ] Master Spark (Complex)
-    - Haha very powerful beam attack go BRRRRRRRR
+    - Haha very powerful beam attack go BRRRRRRRR.
 - [ ] Transmutation Spells
   - [ ] Discharge (Simple)
-    - Creates an electrified field around you, stunning entities
+    - Creates an electrified field around you, stunning entities.
   - [ ] Ring of Fire (Simple)
-    - Creates a ring of fire around you that ignites entities and blocks
+    - Creates a ring of fire around you that ignites entities and blocks.
   - [ ] Heal Self (Intricate)
-    - Heals you for 4 health
+    - Heals you for 4 health.
   - [ ] Polarity (Intricate)
-    - If sneaking it pushes entities away from you, otherwise it pulls them towards you
+    - If sneaking it pushes entities away from you, otherwise it pulls them towards you.
   - [ ] Multi-Heal (Complex)
-    - Heals in a radius around you for 8 health
+    - Heals in a radius around you for 8 health.
   - [ ] Suppression Field (Complex)
-    - Blocks all magic from being cast in a radius around you
+    - Blocks all magic from being cast in a radius around you.
 - [ ] Manipulation Spells
   - [ ] Pacify (Simple)
-    - Temporarily makes hostile mobs neutral
+    - Temporarily makes hostile mobs neutral.
   - [ ] Arcane Lock (Simple)
-    - Locks containers so no one can open them until disspelled
+    - Locks containers so no one can open them until disspelled.
   - [ ] Telekinesis (Intricate)
-    - Allows you to pick up entities and blocks from a distance
+    - Allows you to pick up entities and blocks from a distance.
   - [ ] Ward (Intricate)
-    - Makes blocks unbreakable until disspelled
+    - Makes blocks unbreakable until disspelled.
   - [ ] Animate Armour (Complex)
-    - Animates armour stands to use whatever weapons and armour they're given
+    - Animates armour stands to use whatever weapons and armour they're given.
   - [ ] Turn Ally (Complex)
-    - Makes hostile mobs allies, making them fight for you
+    - Makes hostile mobs allies, making them fight for you.
 - [ ] Conjuration Spells
   - [ ] Arcane Hand (Simple)
-    - Summons a magical hand that attacks anything nearby indiscriminently
+    - Summons a magical hand that attacks anything nearby indiscriminently.
   - [ ] Spring Totem (Simple)
-    - Creates a totem that will bonemeal nearby plants
+    - Creates a totem that will bonemeal nearby plants.
   - [ ] Black Tentacles (Intricate)
-    - Summons a ring of tentacles that will attack anything that gets too close
+    - Summons a ring of tentacles that will attack anything that gets too close.
   - [ ] Summon Shade (Intricate)
-    - Creates a shadow-like entity that attacks anything that interacts with the block it's spawned in
+    - Creates a shadow-like entity that attacks anything that interacts with the block it's spawned in.
   - [ ] Black Hole (Complex)
-    - Summons a void in space that pulls all entities towards it and deals damage
+    - Summons a void in space that pulls all entities towards it and deals damage.
   - [ ] Satellite Dragonfly (Complex)
-    - Creates a dragongly-like entity that the player can control and see through
+    - Creates a dragongly-like entity that the player can control and see through.
 
 ## Trinkets
 - [ ] Wand
@@ -110,8 +111,8 @@
   - [ ] + Spells cost one less aura.
   - [ ] - Melee weapons deal 50% damage.
   - [ ] - Non-magical armours only give 75% protection.
-- [ ] Players can select their School of Magic if they select the Mage Origin.
-  - [ ] Gives the Mage a simple spell from their selected School of Magic.
+- [ ] Players can select their Aura Affinity if they select the Mage Origin.
+  - [ ] Gives the Mage a simple spell from their selected Aura Type.
 
 ---
 
