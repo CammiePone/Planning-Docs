@@ -106,6 +106,8 @@
     - Places the player on another spacial plane, effectively becoming ethereal.
   - [ ] Pocket Dimension
     - Creates a hole in space, sucking all nearby entities into a pocket dimension.
+  - [ ] Arcane Binding
+    - Lets you link yourself to another player, giving you both large buffs but forces you to physically be within a certain distance of each other.
 
 ## Trinkets
 - [ ] Wand
