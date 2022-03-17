@@ -99,6 +99,11 @@
     - Summons a void in space that pulls all entities towards it and deals damage.
   - [ ] Satellite Dragonfly (Complex)
     - Creates a dragongly-like entity that the player can control and see through.
+- [ ] Specialist Spells
+  - [ ] Temporal Dissociation
+    - Stops time for all entities and block entities in a localised area around the caster.
+  - [ ] Spacial Dislocation
+    - Places the player on another spacial plane, effectively becoming ethereal.
 
 ## Trinkets
 - [ ] Wand
