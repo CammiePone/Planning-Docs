@@ -104,6 +104,8 @@
     - Stops time for all entities and block entities in a localised area around the caster.
   - [ ] Spacial Dislocation
     - Places the player on another spacial plane, effectively becoming ethereal.
+  - [ ] Pocket Dimension
+    - Creates a hole in space, sucking all nearby entities into a pocket dimension.
 
 ## Trinkets
 - [ ] Wand
