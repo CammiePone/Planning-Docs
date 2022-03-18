@@ -113,7 +113,6 @@
     - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
 
 ## Trinkets
-- [ ] Wand
 - [ ] Potion Belt
 
 ## Origins Compat
