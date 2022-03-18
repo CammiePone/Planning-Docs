@@ -20,6 +20,7 @@
   - [ ] Emission - separates aura from the body and uses it as projectiles.
   - [ ] Conjuration - creates physical objects out of aura.
   - [ ] Manipulation - controls physical things (animate or inanimate).
+  - [ ] Specialist - powerful spells that don't fit into any other category.
 - [ ] Players can give themselves an affinity with one of the 5 Aura Types through a ritual.
 
 ## Aura
