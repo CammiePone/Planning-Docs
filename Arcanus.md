@@ -111,6 +111,10 @@
     - Lets you link yourself to another player, giving you both large buffs but forces you to physically be within a certain distance of each other.
   - [ ] Wishing Star
     - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
+  - [ ] Impersonate
+    - Take the appearance of another player, including appearing as if you're wearing the same gear that they are wearing.
+  - [ ] Perfection
+    - Gain temporary total proficiency with all 5 spell categories.
 
 ## Trinkets
 - [ ] Potion Belt
