@@ -10,6 +10,10 @@
   - [ ] Intricate (2 aura)
   - [ ] Complex (3 aura)
 
+## Research System
+- [ ] Research is done by giving players a 6-dot grid in the shape of a pentagon with one dot in the middle, representing the Aura Type Diagram abstractly. The player is also provided with a 6 line riddle, where each line describes one of the Aura Types. Connecting the dots in the order provided by the riddle will complete the research.
+  - [ ] To make it easier to connect the dots, so to speak, there will be an Aura Type Diagram behind the riddle text as decoration on the book's page.
+
 ## Arcane Thingamajig
 - [ ] AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
@@ -21,7 +25,7 @@
   - [ ] Conjuration - creates physical objects out of aura.
   - [ ] Manipulation - controls physical things (animate or inanimate).
   - [ ] Specialist - powerful spells that don't fit into any other category.
-- [ ] Players can give themselves an affinity with one of the 5 Aura Types through a ritual.
+- [ ] Players can give themselves an affinity with one of the 5 Aura Types (not Specialist) through a ritual.
 
 ## Aura
 - [ ] The player has 20 aura available to them.
