@@ -26,7 +26,7 @@
   - [ ] Conjuration - creates physical objects out of aura.
   - [ ] Manipulation - controls physical things (animate or inanimate).
   - [ ] Specialist - powerful spells that don't fit into any other category.
-- [ ] Players can give themselves an affinity with one of the 5 Aura Types (not Specialist) through a ritual.
+- [ ] Players can give themselves proficiency with one of the 5 Aura Types (not Specialist) through a ritual.
 
 ## Aura
 - [ ] The player has 20 aura available to them.
