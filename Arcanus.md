@@ -77,16 +77,16 @@
       </details>
   - [ ] Specialist - powerful spells that don't fit into any other category.
 - [ ] Players can give themselves proficiency with one of the 5 Aura Types (not Specialist) through a ritual.
-- [ ] <details>
-        <summary>If the player has no selected proficiency, their spread is as follows:</summary>
-        <ul>
-          <li>Enhancement Proficiency:   50%</li>
-          <li>Transmutation Proficiency: 50%</li>
-          <li>Emission Proficiency:      50%</li>
-          <li>Conjuration Proficiency:   50%</li>
-          <li>Manipulation Proficiency:  50%</li>
-        </ul>
-      </details>
+  - <details>
+      <summary>If the player has no selected proficiency, their spread is as follows:</summary>
+      <ul>
+        <li>Enhancement Proficiency:   50%</li>
+        <li>Transmutation Proficiency: 50%</li>
+        <li>Emission Proficiency:      50%</li>
+        <li>Conjuration Proficiency:   50%</li>
+        <li>Manipulation Proficiency:  50%</li>
+      </ul>
+    </details>
 
 ## Aura
 - [ ] The player has 20 aura available to them.
