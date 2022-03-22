@@ -41,8 +41,8 @@
 
 ## Spells
 - [ ] Enhancement Spells
-  - [ ] Bark Skin (Simple)
-    - Decreases incoming damage by 3.
+  - [ ] Healing Hand (Simple)
+    - Heals yourself, or others you touch, by 5 health.
   - [ ] Agile Strikes (Simple)
     - Increases your mining and attack speed by 25%.
   - [ ] Iron Skin (Intricate)
@@ -71,12 +71,12 @@
     - Creates an electrified field around you, stunning entities.
   - [ ] Ring of Fire (Simple)
     - Creates a ring of fire around you that ignites entities and blocks.
-  - [ ] Heal Self (Intricate)
-    - Heals you for 4 health.
+  - [ ] ??? (Intricate)
+    - ???
   - [ ] Polarity (Intricate)
     - If sneaking it pushes entities away from you, otherwise it pulls them towards you.
-  - [ ] Multi-Heal (Complex)
-    - Heals in a radius around you for 8 health.
+  - [ ] ??? (Complex)
+    - ???
   - [ ] Suppression Field (Complex)
     - Blocks all magic from being cast in a radius around you.
 - [ ] Manipulation Spells
