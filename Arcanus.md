@@ -86,7 +86,7 @@
   - [ ] Potions of Rejuvination are made with the same ritual used to reinvigorate the player's aura.
 
 ## Spell Slots
-- [ ] Spell slots are directly attached to the player, rather than to the wand.
+- [ ] Spell slots are directly attached to the player.
 - [ ] The player starts with 2 spell slots, and can gain more (up to 10) through mastering magic.
 
 ## Spells
