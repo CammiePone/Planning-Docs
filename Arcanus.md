@@ -53,19 +53,6 @@
     - Increases the player's speed, jump height, and damage for a short period of time.
   - [ ] Last Stand (Complex)
     - Makes you survive on half a heart from an otherwise-fatal attack.
-- [ ] Emission Spells
-  - [ ] Magic Missile (Simple)
-    - Launches a weak projectile made of aura.
-  - [ ] Chaos Bolt (Simple)
-    - Fires a bolt of aura that deals a random damage type to whatever it hits.
-  - [ ] Excavate (Intricate)
-    - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone.
-  - [ ] Aura Stream (Intricate)
-    - Fires a sustained, piercing beam of pure aura that damages entities.
-  - [ ] Bouncing Charge (Complex)
-    - Fires a bouncing projectile that targets nearby entities.
-  - [ ] Master Spark (Complex)
-    - Haha very powerful beam attack go BRRRRRRRR.
 - [ ] Transmutation Spells
   - [ ] Discharge (Simple)
     - Creates an electrified field around you, stunning entities.
@@ -79,19 +66,19 @@
     - ???
   - [ ] Suppression Field (Complex)
     - Blocks all magic from being cast in a radius around you.
-- [ ] Manipulation Spells
-  - [ ] Pacify (Simple)
-    - Temporarily makes hostile mobs neutral.
-  - [ ] Arcane Lock (Simple)
-    - Locks containers so no one can open them until disspelled.
-  - [ ] Telekinesis (Intricate)
-    - Allows you to pick up entities and blocks from a distance.
-  - [ ] Ward (Intricate)
-    - Makes blocks unbreakable until disspelled.
-  - [ ] Animate Armour (Complex)
-    - Animates armour stands to use whatever weapons and armour they're given.
-  - [ ] Turn Ally (Complex)
-    - Makes hostile mobs allies, making them fight for you.
+- [ ] Emission Spells
+  - [ ] Magic Missile (Simple)
+    - Launches a weak projectile made of aura.
+  - [ ] Chaos Bolt (Simple)
+    - Fires a bolt of aura that deals a random damage type to whatever it hits.
+  - [ ] Excavate (Intricate)
+    - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone.
+  - [ ] Aura Stream (Intricate)
+    - Fires a sustained, piercing beam of pure aura that damages entities.
+  - [ ] Bouncing Charge (Complex)
+    - Fires a bouncing projectile that targets nearby entities.
+  - [ ] Master Spark (Complex)
+    - Haha very powerful beam attack go BRRRRRRRR.
 - [ ] Conjuration Spells
   - [ ] Arcane Hand (Simple)
     - Summons a magical hand that attacks anything nearby indiscriminently.
@@ -105,6 +92,19 @@
     - Summons a void in space that pulls all entities towards it and deals damage.
   - [ ] Satellite Dragonfly (Complex)
     - Creates a dragongly-like entity that the player can control and see through.
+- [ ] Manipulation Spells
+  - [ ] Pacify (Simple)
+    - Temporarily makes hostile mobs neutral.
+  - [ ] Arcane Lock (Simple)
+    - Locks containers so no one can open them until disspelled.
+  - [ ] Telekinesis (Intricate)
+    - Allows you to pick up entities and blocks from a distance.
+  - [ ] Ward (Intricate)
+    - Makes blocks unbreakable until disspelled.
+  - [ ] Animate Armour (Complex)
+    - Animates armour stands to use whatever weapons and armour they're given.
+  - [ ] Turn Ally (Complex)
+    - Makes hostile mobs allies, making them fight for you.
 - [ ] Specialist Spells
   - [ ] Temporal Dissociation
     - Stops time for all entities and block entities in a localised area around the caster.
