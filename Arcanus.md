@@ -62,8 +62,8 @@
     - ???
   - [ ] Polarity (Intricate)
     - If sneaking it pushes entities away from you, otherwise it pulls them towards you.
-  - [ ] ??? (Complex)
-    - ???
+  - [ ] Bungee Gum (Complex)
+    - When cast, it creates a bubble of aura around the player that catches projectiles. When cast again, it will launch those projectiles in the opposite direction they were caught in.
   - [ ] Suppression Field (Complex)
     - Blocks all magic from being cast in a radius around you.
 - [ ] Emission Spells
