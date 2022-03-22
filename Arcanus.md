@@ -22,33 +22,33 @@
 - [ ] Spells fall into one of 6 Aura Types:
   - [ ] Enhancement - uses aura to increase the natural abilities of the body.
     - [ ] Enhancement Proficiency:   100%
-    - [ ] Transmutation Proficiency: 75%
-    - [ ] Emission Proficiency:      75%
-    - [ ] Conjuration Proficiency:   50%
-    - [ ] Manipulation Proficiency:  50%
+    - [ ] Transmutation Proficiency: 80%
+    - [ ] Emission Proficiency:      80%
+    - [ ] Conjuration Proficiency:   40%
+    - [ ] Manipulation Proficiency:  40%
   - [ ] Transmutation - changes the properties of aura to mimic something else.
-    - [ ] Enhancement Proficiency:   75%
+    - [ ] Enhancement Proficiency:   80%
     - [ ] Transmutation Proficiency: 100%%
-    - [ ] Emission Proficiency:      50%
-    - [ ] Conjuration Proficiency:   75%
-    - [ ] Manipulation Proficiency:  50%
+    - [ ] Emission Proficiency:      40%
+    - [ ] Conjuration Proficiency:   80%
+    - [ ] Manipulation Proficiency:  40%
   - [ ] Emission - separates aura from the body and uses it as projectiles.
-    - [ ] Enhancement Proficiency:   75%
-    - [ ] Transmutation Proficiency: 50%
+    - [ ] Enhancement Proficiency:   80%
+    - [ ] Transmutation Proficiency: 40%
     - [ ] Emission Proficiency:      100%
-    - [ ] Conjuration Proficiency:   50%
-    - [ ] Manipulation Proficiency:  75%
+    - [ ] Conjuration Proficiency:   40%
+    - [ ] Manipulation Proficiency:  80%
   - [ ] Conjuration - creates physical objects out of aura.
-    - [ ] Enhancement Proficiency:   50%
-    - [ ] Transmutation Proficiency: 75%
-    - [ ] Emission Proficiency:      50%
+    - [ ] Enhancement Proficiency:   40%
+    - [ ] Transmutation Proficiency: 80%
+    - [ ] Emission Proficiency:      40%
     - [ ] Conjuration Proficiency:   100%
-    - [ ] Manipulation Proficiency:  75%
+    - [ ] Manipulation Proficiency:  80%
   - [ ] Manipulation - controls physical things (animate or inanimate).
-    - [ ] Enhancement Proficiency:   50%
-    - [ ] Transmutation Proficiency: 50%
-    - [ ] Emission Proficiency:      75%
-    - [ ] Conjuration Proficiency:   75%
+    - [ ] Enhancement Proficiency:   40%
+    - [ ] Transmutation Proficiency: 40%
+    - [ ] Emission Proficiency:      80%
+    - [ ] Conjuration Proficiency:   80%
     - [ ] Manipulation Proficiency:  100%
   - [ ] Specialist - powerful spells that don't fit into any other category.
 - [ ] Players can give themselves proficiency with one of the 5 Aura Types (not Specialist) through a ritual.
