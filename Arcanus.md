@@ -85,8 +85,8 @@
     - Creates a ring of fire around you that ignites entities and blocks.
   - [ ] ??? (Intricate)
     - ???
-  - [ ] Polarity (Intricate)
-    - If sneaking it pushes entities away from you, otherwise it pulls them towards you.
+  - [ ] ??? (Intricate)
+    - ???
   - [ ] Bungee Gum (Complex)
     - When cast, it creates a bubble of aura around the player that catches projectiles. When cast again, it will launch those projectiles in the opposite direction they were caught in.
   - [ ] Suppression Field (Complex)
