@@ -11,8 +11,8 @@
   - [ ] Complex (3 aura)
 
 ## Research System
-- [ ] Research is done by giving players a 6-dot grid in the shape of a pentagon with one dot in the middle, representing the Aura Type Diagram abstractly. The player is also provided with a 6 line riddle, where each line describes one of the Aura Types. Connecting the dots in the order provided by the riddle will complete the research.
-  - [ ] To make it easier to connect the dots, so to speak, there will be an Aura Type Diagram behind the riddle text as decoration on the book's page.
+- [ ] Research is done by giving players a 6-dot grid in the shape of a pentagon with one dot in the middle, representing the Aura Diagram abstractly. The player is also provided with a 6 line riddle, where each line describes one of the Aura Types. Connecting the dots in the order provided by the riddle will complete the research.
+  - [ ] To make it easier to connect the dots, so to speak, there will be an Aura Diagram behind the riddle text as decoration on the book's page.
   - [ ] Doubles as a way to get players familiar with the Aura Types so when they want to suggest spells, I don't have to tell people that the spell they're suggesting doesn't fit the category they think it fits.
 
 ## Arcane Thingamajig
