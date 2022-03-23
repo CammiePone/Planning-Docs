@@ -114,14 +114,14 @@
   - [ ] Last Stand (Complex)
     - Makes you survive on half a heart from an otherwise-fatal attack.
 - [ ] Transmutation Spells
-  - [ ] Discharge (Simple)
-    - Creates an electrified field around you, stunning entities.
+  - [ ] Magentism (Simple)
+    - Your aura forms into a magnetic field, pulling entities closer to you.
   - [ ] Ring of Fire (Simple)
-    - Creates a ring of fire around you that ignites entities and blocks.
-  - [ ] ??? (Intricate)
-    - ???
-  - [ ] ??? (Intricate)
-    - ???
+    - Your aura forms a ring of fire around you that ignites entities and blocks.
+  - [ ] Porcupine (Intricate)
+    - Your aura forms into multiple spikes, forming a ball of needles around the player that hurts anyone that gets too close.
+  - [ ] Discharge (Intricate)
+    - Your aura forms an electrified field around you, stunning entities.
   - [ ] Bungee Gum (Complex)
     - When cast, it creates a bubble of aura around the player that catches projectiles. When cast again, it will launch those projectiles in the opposite direction they were caught in.
   - [ ] Suppression Field (Complex)
