@@ -178,33 +178,36 @@
   - [ ] Planeswalker (Unique)
     - Places the player on another spacial plane, making the player unable to attack, be attecked by, interact with, or collide with other entities. They will still be able see and hear other entities, but other players won't be able to see or hear you.
   - [ ] Wishing Star (Unique)
-    - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
+    - Upon casting, the player will be given 3 tasks to complete. Failure will result in a curse that can only be removed via a wish, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
     - <details>
-        <summary>Tasks Ordered By Difficulty</summary>
-  
+        <summary>List of Tasks</summary>
         <ul>
-          <li>Global Counter: 0-24
+          <li>
+            Global Counter: 0-24
             <ul>
               <li>Jump</li>
               <li>Kill a pig</li>
               <li>???</li>
             </ul>
           </li>
-          <li>Global Counter: 25-49
+          <li>
+            Global Counter: 25-49
             <ul>
               <li>Take exactly 10 damage</li>
               <li>???</li>
               <li>???</li>
             </ul>
           </li>
-          <li>Global Counter: 50-74
+          <li>
+            Global Counter: 50-74
             <ul>
               <li>Die</li>
               <li>Give me a Diamond Block</li>
               <li>???</li>
             </ul>
           </li>
-          <li>Global Counter: 75-100
+          <li>
+            Global Counter: 75-100
             <ul>
               <li>Bring me a Wither Skull</li>
               <li>Give me an enchanted piece of Diamond armour</li>
@@ -213,6 +216,35 @@
           </li>
         </ul>
       </details>
+      - <details>
+          <summary>List of Curses</summary>
+          <ul>
+            <li>
+              Global Counter: 0-24
+              <ul>
+                <li>Colour Blindness - makes the player become red-green colour blind.</li>
+              </ul>
+            </li>
+            <li>
+              Global Counter: 25-49
+              <ul>
+                <li>Brittle Bones - makes the player take 2x damage from all sources.</li>
+              </ul>
+            </li>
+            <li>
+              Global Counter: 50-74
+              <ul>
+                <li>Klutz - makes the player randomly drop an item in their hotbar.</li>
+              </ul>
+            </li>
+            <li>
+              Global Counter: 75-100
+              <ul>
+                <li>Aura Seal - Aura Lock is set to 20, unless it's a Full Moon.</li>
+              </ul>
+            </li>
+          </ul>
+        </details>
   - [ ] Aura Prodigy (Unique)
     - Gain 100% proficiency with all 5 spell categories while active, allowing the player to cast any spell without consquence.
 
