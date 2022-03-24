@@ -219,6 +219,8 @@
       
     - <details>
         <summary>List of Curses</summary>
+  
+        If you have a curse, and get the same curse again, it goes up a level. If there are no curses above the one you have, you will die, lose your spawnpoint, lose your entire inventory, and a large explosion will occur where you stand. Have fun~<br>
         <ul>
           <li>
             Wish Counter: 0-24
