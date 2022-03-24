@@ -217,35 +217,42 @@
         </ul>
       </details>
       
-     - <details>
-         <summary>List of Curses</summary>
-         <ul>
-           <li>
-             Global Counter: 0-24
-             <ul>
-               <li>Colour Blindness - makes the player become red-green colour blind.</li>
-             </ul>
-           </li>
-           <li>
-             Global Counter: 25-49
-             <ul>
-               <li>Brittle Bones - makes the player take 2x damage from all sources.</li>
-             </ul>
-           </li>
-           <li>
-             Global Counter: 50-74
-             <ul>
-               <li>Klutz - makes the player randomly drop an item in their hotbar.</li>
-             </ul>
-           </li>
-           <li>
-             Global Counter: 75-100
-             <ul>
-               <li>Aura Seal - Aura Lock is set to 20, unless it's a Full Moon.</li>
-             </ul>
-           </li>
-         </ul>
-       </details>
+    - <details>
+        <summary>List of Curses</summary>
+        <ul>
+          <li>
+            Global Counter: 0-24
+            <ul>
+              <li>Colour Blindness - makes the player become red-green colour blind.</li>
+            </ul>
+          </li>
+          <li>
+            Global Counter: 25-49
+            <ul>
+              <li>Brittle Bones - makes the player take 2x damage from all sources.</li>
+            </ul>
+          </li>
+          <li>
+            Global Counter: 50-74
+            <ul>
+              <li>Klutz - makes the player randomly drop an item in their hotbar.</li>
+            </ul>
+          </li>
+          <li>
+            Global Counter: 75-100
+            <ul>
+              <li>Aura Seal - Aura Lock is set to 20, unless it's a Full Moon.</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+       
+    - <details>
+        <summary>List of Wishes</summary>
+        <ul>
+          <li>???</li>
+        </ul>
+      </details>
   - [ ] Aura Prodigy (Unique)
     - Gain 100% proficiency with all 5 spell categories while active, allowing the player to cast any spell without consquence.
 
