@@ -183,13 +183,13 @@
 
 ## Cults
 - [ ] **Cult of The North**
-  - [ ] Spawns at (x: -256 to 256, z: -3328 to -3840)
+  - [ ] Spawns at (x: -512 to 512, z: -3072 to -4096)
 - [ ] **Cult of The East**
-  - [ ] Spawns at (x: 3328 to 3840, z: -256 to 256)
+  - [ ] Spawns at (x: 3072 to 4096, z: -512 to 512)
 - [ ] **Cult of The South**
-  - [ ] Spawns at (x: -256 to 256, z: 3328 to 3840)
+  - [ ] Spawns at (x: -512 to 512, z: 3072 to 4096)
 - [ ] **Cult of The West**
-  - [ ] Spawns at (x: -3328 to -3840, z: -256 to 256)
+  - [ ] Spawns at (x: -3072 to -4096, z: -512 to 512)
 
 ## Trinkets
 - [ ] Potion Belt
