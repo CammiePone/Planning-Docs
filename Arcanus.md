@@ -176,7 +176,7 @@
   - [ ] Temporal Disruption (Unique)
     - Stops time for all entities and block entities in a localised area around the caster.
   - [ ] Planeswalker (Unique)
-    - Places the player on another spacial plane, effectively becoming ethereal.
+    - Places the player on another spacial plane, making the player unable to attack, be attecked by, interact with, or collide with other entities. They will still be able see and hear other entities, but other players won't be able to see or hear you.
   - [ ] Wishing Star (Unique)
     - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
   - [ ] Aura Prodigy (Unique)
