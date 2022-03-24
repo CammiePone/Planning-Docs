@@ -187,31 +187,31 @@
             <ul>
               <li>Jump</li>
               <li>Kill a pig</li>
-              <li>???</li>
+              <li>Place an Iron Block</li>
             </ul>
           </li>
           <li>
             Global Counter: 25-49
             <ul>
-              <li>Take exactly 10 damage</li>
-              <li>???</li>
-              <li>???</li>
+              <li>Give me a Blaze Rod</li>
+              <li>Take exactly 10 damage in one hit</li>
+              <li>Kill a skeleton</li>
             </ul>
           </li>
           <li>
             Global Counter: 50-74
             <ul>
-              <li>Die</li>
+              <li>Kill an Enderman</li>
               <li>Give me a Diamond Block</li>
-              <li>???</li>
+              <li>Die in the Nether</li>
             </ul>
           </li>
           <li>
             Global Counter: 75-100
             <ul>
-              <li>Bring me a Wither Skull</li>
               <li>Give me an enchanted piece of Diamond armour</li>
-              <li>???</li>
+              <li>Bring me a Wither Skull</li>
+              <li>Kill the Ender Dragon</li>
             </ul>
           </li>
         </ul>
