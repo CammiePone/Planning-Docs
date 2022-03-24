@@ -179,6 +179,40 @@
     - Places the player on another spacial plane, making the player unable to attack, be attecked by, interact with, or collide with other entities. They will still be able see and hear other entities, but other players won't be able to see or hear you.
   - [ ] Wishing Star (Unique)
     - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
+    - <details>
+        <summary>Tasks Ordered By Difficulty</summary>
+  
+        <ul>
+          <li>Global Counter: 0-24
+            <ul>
+              <li>Jump</li>
+              <li>Kill a pig</li>
+              <li>???</li>
+            </ul>
+          </li>
+          <li>Global Counter: 25-49
+            <ul>
+              <li>Take exactly 10 damage</li>
+              <li>???</li>
+              <li>???</li>
+            </ul>
+          </li>
+          <li>Global Counter: 50-74
+            <ul>
+              <li>Die</li>
+              <li>Give me a Diamond Block</li>
+              <li>???</li>
+            </ul>
+          </li>
+          <li>Global Counter: 75-100
+            <ul>
+              <li>Bring me a Wither Skull</li>
+              <li>Give me an enchanted piece of Diamond armour</li>
+              <li>???</li>
+            </ul>
+          </li>
+        </ul>
+      </details>
   - [ ] Aura Prodigy (Unique)
     - Gain 100% proficiency with all 5 spell categories while active, allowing the player to cast any spell without consquence.
 
