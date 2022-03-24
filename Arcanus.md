@@ -167,6 +167,12 @@
   - [ ] Turn Ally (Complex)
     - Makes hostile mobs allies, making them fight for you.
 - [ ] Specialist Spells
+  - [ ] Impersonate (Simple)
+    - Take the appearance of another player, including appearing as if you're wearing the same gear that they are wearing.
+  - [ ] Arcane Binding (Intricate)
+    - Lets you link yourself to another player, giving you both large buffs but forces you to physically be within a certain distance of each other.
+  - [ ] Pocket Dimension (Complex)
+    - Creates a hole in space, sucking all nearby entities into a pocket dimension.
   - [ ] Temporal Dissociation (Unique)
     - Stops time for all entities and block entities in a localised area around the caster.
   - [ ] Spacial Dislocation (Unique)
@@ -175,12 +181,6 @@
     - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
   - [ ] Perfection (Unique)
     - Gain temporary total proficiency with all 5 spell categories.
-  - [ ] Impersonate (Simple)
-    - Take the appearance of another player, including appearing as if you're wearing the same gear that they are wearing.
-  - [ ] Arcane Binding (Intricate)
-    - Lets you link yourself to another player, giving you both large buffs but forces you to physically be within a certain distance of each other.
-  - [ ] Pocket Dimension (Complex)
-    - Creates a hole in space, sucking all nearby entities into a pocket dimension.
 
 ## Cults
 - [ ] Cults are groups of mages who formed around ancient Gemstone Tablets, tied to certain Specialist spells, making them the only source of these Specialist spells in the world.
