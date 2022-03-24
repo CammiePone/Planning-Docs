@@ -181,6 +181,16 @@
   - [ ] Perfection
     - Gain temporary total proficiency with all 5 spell categories.
 
+## Cults
+- [ ] **Cult of The North**
+  - [ ] Spawns at (x: -256 to 256, z: -3328 to -3840)
+- [ ] **Cult of The East**
+  - [ ] Spawns at (x: 3328 to 3840, z: -256 to 256)
+- [ ] **Cult of The South**
+  - [ ] Spawns at (x: -256 to 256, z: 3328 to 3840)
+- [ ] **Cult of The West**
+  - [ ] Spawns at (x: -3328 to -3840, z: -256 to 256)
+
 ## Trinkets
 - [ ] Potion Belt
 
