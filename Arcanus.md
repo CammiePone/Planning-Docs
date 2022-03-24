@@ -170,30 +170,30 @@
     - Stops time for all entities and block entities in a localised area around the caster.
   - [ ] Spacial Dislocation
     - Places the player on another spacial plane, effectively becoming ethereal.
+  - [ ] Wishing Star
+    - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
+  - [ ] Perfection
+    - Gain temporary total proficiency with all 5 spell categories.
   - [ ] Pocket Dimension
     - Creates a hole in space, sucking all nearby entities into a pocket dimension.
   - [ ] Arcane Binding
     - Lets you link yourself to another player, giving you both large buffs but forces you to physically be within a certain distance of each other.
-  - [ ] Wishing Star
-    - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
   - [ ] Impersonate
     - Take the appearance of another player, including appearing as if you're wearing the same gear that they are wearing.
-  - [ ] Perfection
-    - Gain temporary total proficiency with all 5 spell categories.
 
 ## Cults
 - [ ] **Cult of The North**
   - [ ] Spawns at (x: -512 to 512, z: -3072 to -4096)
   - [ ] Guards a Gemstone Slate made of Diamond
   - [ ] They are the masters of Temporal Dissociation and are the only way to obtain the spell
-- [ ] **Cult of The East**
-  - [ ] Spawns at (x: 3072 to 4096, z: -512 to 512)
-  - [ ] Guards a Gemstone Slate made of Amethyst
-  - [ ] They are the masters of Wishing Star and are the only way to obtain the spell
 - [ ] **Cult of The South**
   - [ ] Spawns at (x: -512 to 512, z: 3072 to 4096)
   - [ ] Guards a Gemstone Slate msde of Quartz
   - [ ] They are the masters of Spacial Dislocation and are the only way to obtain the spell
+- [ ] **Cult of The East**
+  - [ ] Spawns at (x: 3072 to 4096, z: -512 to 512)
+  - [ ] Guards a Gemstone Slate made of Amethyst
+  - [ ] They are the masters of Wishing Star and are the only way to obtain the spell
 - [ ] **Cult of The West**
   - [ ] Spawns at (x: -3072 to -4096, z: -512 to 512)
   - [ ] Guards a Gemstone Slate made of Emerald
