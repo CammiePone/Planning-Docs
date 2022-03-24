@@ -225,7 +225,7 @@
           <li>
             Wish Counter: 0-24
             <ul>
-              <li>Colour Blindness - makes the player become red-green colour blind.</li>
+              <li>Colour Blindness - makes the player see everything in grey-scale.</li>
             </ul>
           </li>
           <li>
