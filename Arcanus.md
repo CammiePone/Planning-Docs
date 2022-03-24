@@ -183,7 +183,7 @@
         <summary>List of Tasks</summary>
         <ul>
           <li>
-            Global Counter: 0-24
+            Wish Counter: 0-24
             <ul>
               <li>Jump</li>
               <li>Kill a pig</li>
@@ -191,7 +191,7 @@
             </ul>
           </li>
           <li>
-            Global Counter: 25-49
+            Wish Counter: 25-49
             <ul>
               <li>Give me a Blaze Rod</li>
               <li>Take exactly 10 damage in one hit</li>
@@ -199,7 +199,7 @@
             </ul>
           </li>
           <li>
-            Global Counter: 50-74
+            Wish Counter: 50-74
             <ul>
               <li>Kill an Enderman</li>
               <li>Give me a Diamond Block</li>
@@ -207,9 +207,9 @@
             </ul>
           </li>
           <li>
-            Global Counter: 75-100
+            Wish Counter: 75-100
             <ul>
-              <li>Give me an enchanted piece of Diamond armour</li>
+              <li>Give me a piece of Netherite armour</li>
               <li>Bring me a Wither Skull</li>
               <li>Kill the Ender Dragon</li>
             </ul>
@@ -221,25 +221,25 @@
         <summary>List of Curses</summary>
         <ul>
           <li>
-            Global Counter: 0-24
+            Wish Counter: 0-24
             <ul>
               <li>Colour Blindness - makes the player become red-green colour blind.</li>
             </ul>
           </li>
           <li>
-            Global Counter: 25-49
+            Wish Counter: 25-49
             <ul>
               <li>Brittle Bones - makes the player take 2x damage from all sources.</li>
             </ul>
           </li>
           <li>
-            Global Counter: 50-74
+            Wish Counter: 50-74
             <ul>
               <li>Klutz - makes the player randomly drop an item in their hotbar.</li>
             </ul>
           </li>
           <li>
-            Global Counter: 75-100
+            Wish Counter: 75-100
             <ul>
               <li>Aura Seal - Aura Lock is set to 20, unless it's a Full Moon.</li>
             </ul>
@@ -250,7 +250,16 @@
     - <details>
         <summary>List of Wishes</summary>
         <ul>
+          <li>Duplicate given item - +10 to counter</li>
+          <li>Kill given player - +20 to counter</li>
+          <li>Teleport me to given location- +10 to counter</li>
+          <li>Cast spell on given player - +5 to counter</li>
+          <li>Enchant given item with selected enchantments - +25 to counter</li>
+          <li>Summon given entity - +20 to counter</li>
           <li>???</li>
+          <li>???</li>
+          <li>???</li>
+          <li>Remove all curses from given player - +50 to counter</li>
         </ul>
       </details>
   - [ ] Aura Prodigy (Unique)
