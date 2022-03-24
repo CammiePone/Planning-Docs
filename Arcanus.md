@@ -184,12 +184,20 @@
 ## Cults
 - [ ] **Cult of The North**
   - [ ] Spawns at (x: -512 to 512, z: -3072 to -4096)
+  - [ ] Guards a Gemstone Slate made of Diamond
+  - [ ] They are the masters of Temporal Dissociation and are the only way to obtain the spell
 - [ ] **Cult of The East**
   - [ ] Spawns at (x: 3072 to 4096, z: -512 to 512)
+  - [ ] Guards a Gemstone Slate made of Amethyst
+  - [ ] They are the masters of Wishing Star and are the only way to obtain the spell
 - [ ] **Cult of The South**
   - [ ] Spawns at (x: -512 to 512, z: 3072 to 4096)
+  - [ ] Guards a Gemstone Slate msde of Quartz
+  - [ ] They are the masters of Spacial Dislocation and are the only way to obtain the spell
 - [ ] **Cult of The West**
   - [ ] Spawns at (x: -3072 to -4096, z: -512 to 512)
+  - [ ] Guards a Gemstone Slate made of Emerald
+  - [ ] They are the masters of Perfection and are the only way to obtain the spell
 
 ## Trinkets
 - [ ] Potion Belt
