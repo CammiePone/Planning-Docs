@@ -180,7 +180,7 @@
   - [ ] Wishing Star (Unique)
     - Upon casting, the player will be given 3 tasks to complete. Failure may result in death and loss of items, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
   - [ ] Aura Prodigy (Unique)
-    - Gain temporary total proficiency with all 5 spell categories.
+    - Gain 100% proficiency with all 5 spell categories while active, allowing the player to cast any spell without consquence.
 
 ## Cults
 - [ ] Cults are groups of mages who formed around ancient Gemstone Tablets, tied to certain Specialist spells, making them the only source of these Specialist spells in the world.
