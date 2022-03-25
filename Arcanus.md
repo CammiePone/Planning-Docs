@@ -9,7 +9,7 @@
   - [ ] Simple (1 aura)
   - [ ] Intricate (2 aura)
   - [ ] Complex (3 aura)
-- [ ] There are also Unique spells, who will completely drain a player's Aura at a rate of 1 per second.
+- [ ] There are also Unique spells, which will drain a player's Aura at a rate of 1 per second.
 
 ## Research System
 - [ ] Research is done by giving players a 6-dot grid in the shape of a pentagon with one dot in the middle, representing the Aura Diagram abstractly. The player is also provided with a 6 line riddle, where each line describes one of the Aura Types. Connecting the dots in the order provided by the riddle will complete the research.
