@@ -185,6 +185,7 @@
 ## Cults
 - [ ] Cults are groups of mages who formed around ancient Gemstone Tablets, tied to certain Specialist spells, making them the only source of these Specialist spells in the world.
 - [ ] The player can join up with one, but not all four, of these cults during any given playthrough, though they will learn of any cult's domain before being given the choice of joining. However, joining a cult will make the remaining 3 cults hostile towards the player.
+  - [ ] There is one method in which a player can change their allegiance: by summoning a spirit who will strip the player of their memories of the cults, and the cults of their memories of the player.
 - [ ] Once the player's reputation is sufficiently high enough with a given cult, that cult will allow the player to learn their unique spell.
 - [ ] There are 4 cults that can be interacted with in the world. They are:
   - [ ] **Cult of The North**
