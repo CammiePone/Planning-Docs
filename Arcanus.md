@@ -176,8 +176,8 @@
   - [ ] Temporal Disruption (Unique)
     - Stops time for all entities and block entities in a localised area around the caster.
   - [ ] Planeswalker (Unique)
-    - Places the player on another spacial plane, making the player unable to attack, be attecked by, interact with, or collide with other entities.
-  - [ ] ??? (Unique)
+    - Places the player on another spacial plane, making the player unable to interact with other entities.
+  - [ ] Restraint Level Zero (Unique)
     - Makes all other spell casting free for the duration of the spell, as well as halves the cooldowns for all spells cast.
   - [ ] Aura Prodigy (Unique)
     - Gain 100% proficiency with all 5 spell categories while active, allowing the player to cast any spell without consquence.
@@ -198,7 +198,7 @@
   - [ ] **Cult of The East**
     - [ ] Spawns at (x: 3072 to 4096, z: -512 to 512)
     - [ ] Guards a Gemstone Tablet made of Amethyst
-    - [ ] They are the masters of ??? and are the only way to obtain the spell
+    - [ ] They are the masters of Restraint Level Zero and are the only way to obtain the spell
   - [ ] **Cult of The West**
     - [ ] Spawns at (x: -3072 to -4096, z: -512 to 512)
     - [ ] Guards a Gemstone Tablet made of Emerald
