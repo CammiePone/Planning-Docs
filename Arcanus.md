@@ -16,8 +16,13 @@
   - [ ] To make it easier to connect the dots, so to speak, there will be an Aura Diagram behind the riddle text as decoration on the book's page.
   - [ ] Doubles as a way to get players familiar with the Aura Types so when they want to suggest spells, I don't have to tell people that the spell they're suggesting doesn't fit the category they think it fits.
 
-## Arcane Thingamajig
-- [ ] AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+## Arcane Altar
+- [ ] A moderately sized structure that uses the latent magical power held within Amethyst Clusters to execute rituals.
+  - [ ] These rituals include:
+    - [ ] Reinvigorating the player's Aura
+    - [ ] Selecting the player's Aura Type
+    - [ ] Adding spells to the player
+    - [ ] Accessing the US nuclear weapons launch codes
 
 ## Aura Types
 - [ ] Spells fall into one of 6 Aura Types:
