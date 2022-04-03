@@ -23,6 +23,10 @@
     - [ ] Selecting the player's Aura Type
     - [ ] Adding spells to the player
     - [ ] Accessing the US nuclear weapons launch codes
+  - <details>
+      <summary>Appearance</summary>
+      <img src="https://user-images.githubusercontent.com/16853086/161438084-2f449b32-8f34-4ecd-abb0-3f48345fa389.png">
+    </details>
 
 ## Aura Types
 - [ ] Spells fall into one of 6 Aura Types:
