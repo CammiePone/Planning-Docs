@@ -320,9 +320,9 @@
 ## Origins Compat
 - [ ] Players can select the Mage Origin, a human who dedicated their life to the study of magic.
   - [ ] + Starts with 4 spell slots.
-  - [ ] + Spells get a +2 to potency.
+  - [ ] + All Aura Types get a 15% bonus.
   - [ ] + Spells cost one less aura.
-  - [ ] - Melee weapons deal 50% damage.
-  - [ ] - Non-magical armours only give 75% protection.
+  - [ ] - Melee weapons deal 50% less damage.
+  - [ ] - Non-magical armours give 25% less protection.
 - [ ] Players can select their Aura Affinity if they select the Mage Origin.
-  - [ ] Gives the Mage a simple spell from their selected Aura Type.
+  - [ ] Gives the Mage a Simple spell from their selected Aura Type of their choosing.
