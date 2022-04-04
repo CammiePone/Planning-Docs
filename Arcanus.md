@@ -219,6 +219,91 @@
 
 ## Gemstone Tablets
 - [ ] Ancient magical artefacts that, when brought together, are able to summon an ancient temple to a god-like being.
+  - [ ] Once summoned, the player will be given 3 tasks (difficulty dependant on a global counter) to fulfill within 1 in-game day of being given the tasks. Failure to complete all three tasks will result in a curse that can only be removed via a wish, but succeeding will allow the player to make a wish from a pre-defined list. The more valuable the wish, the harder subsequent tasks become for anyone who casts the spell.
+  - <details>
+      <summary>List of Tasks</summary>
+      <ul>
+        <li>
+          Wish Counter: 0-24
+          <ul>
+            <li>Jump</li>
+            <li>Kill a pig</li>
+            <li>Place an Iron Block</li>
+          </ul>
+        </li>
+        <li>
+          Wish Counter: 25-49
+          <ul>
+            <li>Give me a Blaze Rod</li>
+            <li>Take exactly 10 damage in one hit</li>
+            <li>Kill a skeleton</li>
+          </ul>
+        </li>
+        <li>
+          Wish Counter: 50-74
+          <ul>
+            <li>Kill an Enderman</li>
+            <li>Give me a Diamond Block</li>
+            <li>Die in the Nether</li>
+          </ul>
+        </li>
+        <li>
+          Wish Counter: 75-100
+          <ul>
+            <li>Give me a piece of Netherite armour</li>
+            <li>Bring me a Wither Skull</li>
+            <li>Kill the Ender Dragon</li>
+          </ul>
+        </li>
+      </ul>
+    </details>
+
+  - <details>
+      <summary>List of Curses</summary>
+      If you have a curse, and get the same curse again, it goes up a level. If there are no curses above the one you have, you will die, lose your spawnpoint, lose your entire inventory, and a large explosion will occur where you stand. Have fun~<br>
+      <ul>
+        <li>
+          Wish Counter: 0-24
+          <ul>
+            <li>Colour Blindness - makes the player see everything in grey-scale.</li>
+          </ul>
+        </li>
+        <li>
+          Wish Counter: 25-49
+          <ul>
+            <li>Brittle Bones - makes the player take 2x damage from all sources.</li>
+          </ul>
+        </li>
+        <li>
+          Wish Counter: 50-74
+          <ul>
+            <li>Klutz - makes the player randomly drop an item in their hotbar.</li>
+          </ul>
+        </li>
+        <li>
+          Wish Counter: 75-100
+          <ul>
+            <li>Aura Seal - Aura Lock is set to 20, preventing the player from casting spells.</li>
+          </ul>
+        </li>
+      </ul>
+    </details>
+
+  - <details>
+      <summary>List of Wishes</summary>
+      <ul>
+        <li>Duplicate given item - +10 to counter</li>
+        <li>Kill given player - +20 to counter</li>
+        <li>Teleport me to given location- +10 to counter</li>
+        <li>Cast spell on given player - +5 to counter</li>
+        <li>Enchant given item with selected enchantments - +25 to counter</li>
+        <li>Summon given entity - +20 to counter</li>
+        <li>???</li>
+        <li>???</li>
+        <li>???</li>
+        <li>Remove all curses from given player - +50 to counter</li>
+      </ul>
+    </details>
 - [ ] Each tablet is held by one of the four cults. The only way to obtain them is to steal them from all four cults, as neither will part with it willingly.
   - [ ] Each tablet is instanced per player, allowing for every player to get a copy of the tablet.
   - [ ] If destroyed, despawned, or stolen, it will appear back in the hands of the cult it belongs to for the player that lost it.
