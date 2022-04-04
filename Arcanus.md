@@ -22,6 +22,7 @@
     - [ ] Reinvigorating the player's Aura
     - [ ] Selecting the player's Aura Type
     - [ ] Adding spells to the player
+    - [ ] Crafting magical items
     - [ ] Accessing the US nuclear weapons launch codes
   - [ ] When activated, the pool will glow as magical energy from the ring of Amethyst Clusters is pulled into the central Amethyst Cluster. Once the amethyst is consumed, the items in the central block in the pool (currently represented by a Purpur slab) will be subsumed into the central Amethyst Cluster as well. From there, it will begin to glow with Aura for a few seconds before the ritual is completed.
     - [ ] If the player is attaching a spell, ending the ritual will present the player with a screen of their spell slots and the spell(s) they wanted to use. They just drag and drop it into the desired slot.
@@ -30,6 +31,9 @@
     <p>The water would normally be matching purple to the amethyst, as it's been discoloured by the crying obsidian.</p>
     <img src="https://user-images.githubusercontent.com/16853086/161438084-2f449b32-8f34-4ecd-abb0-3f48345fa389.png">
   </details>
+
+## Items
+- [ ] Potion Belt
 
 ## Aura Types
 - [ ] Spells fall into one of 6 Aura Types:
@@ -312,9 +316,6 @@
   - [ ] Quartz Tablet, held by the Cult of The South
   - [ ] Amethyst Tablet, held by the Cult of The East
   - [ ] Emerald Tablet, held by the Cult of The West
-
-## Trinkets
-- [ ] Potion Belt
 
 ## Origins Compat
 - [ ] Players can select the Mage Origin, a human who dedicated their life to the study of magic.
