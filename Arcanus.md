@@ -206,7 +206,7 @@
     - [ ] They are the masters of Temporal Disruption and are the only way to obtain the spell
   - [ ] **Cult of The South**
     - [ ] Spawns at (x: -512 to 512, z: 3072 to 4096)
-    - [ ] Guards a Gemstone Tablet msde of Quartz
+    - [ ] Guards a Gemstone Tablet made of Quartz
     - [ ] They are the masters of Planeswalker and are the only way to obtain the spell
   - [ ] **Cult of The East**
     - [ ] Spawns at (x: 3072 to 4096, z: -512 to 512)
@@ -216,6 +216,17 @@
     - [ ] Spawns at (x: -3072 to -4096, z: -512 to 512)
     - [ ] Guards a Gemstone Tablet made of Emerald
     - [ ] They are the masters of Aura Prodigy and are the only way to obtain the spell
+
+## Gemstone Tablets
+- [ ] Ancient magical artefacts that, when brought together, are able to summon an ancient temple to a god-like being.
+- [ ] Each tablet is held by one of the four cults. The only way to obtain them is to steal them from all four cults, as neither will part with it willingly.
+  - [ ] Each tablet is instanced per player, allowing for every player to get a copy of the tablet.
+  - [ ] If destroyed, despawned, or stolen, it will appear back in the hands of the cult it belongs to for the player that lost it.
+- [ ] There are four tablets:
+  - [ ] Diamond Tablet, held by the Cult of The North
+  - [ ] Quartz Tablet, held by the Cult of The South
+  - [ ] Amethyst Tablet, held by the Cult of The East
+  - [ ] Emerald Tablet, held by the Cult of The West
 
 ## Trinkets
 - [ ] Potion Belt
