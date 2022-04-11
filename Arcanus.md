@@ -304,7 +304,7 @@
         <li>Summon given entity - +20 to counter</li>
         <li>???</li>
         <li>???</li>
-        <li>???</li>
+        <li>Wipe my allegience from my cult - +50 to counter</li>
         <li>Remove all curses from given player - +50 to counter</li>
       </ul>
     </details>
