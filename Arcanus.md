@@ -296,11 +296,11 @@
   - <details>
       <summary>List of Wishes</summary>
       <ul>
-        <li>Duplicate given item - +10 to counter</li>
+        <li>Duplicate given item - +20 to counter</li>
         <li>Kill given player - +20 to counter</li>
         <li>Teleport me to given location- +10 to counter</li>
         <li>Cast spell on given player - +5 to counter</li>
-        <li>Enchant given item with selected enchantments - +25 to counter</li>
+        <li>Enchant given item with a selected enchantment - +25 to counter</li>
         <li>Summon given entity - +20 to counter</li>
         <li>???</li>
         <li>???</li>
