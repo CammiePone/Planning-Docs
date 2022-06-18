@@ -1,4 +1,4 @@
-# Arcanus 2
+# Devotion
 
 ## Casting System
 - [ ] Casting is handled by selecting a spell in a radial menu, setting the player's Spell Charge to the selected spell.
