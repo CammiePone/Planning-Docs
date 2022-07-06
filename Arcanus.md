@@ -27,7 +27,9 @@ This also causes damage to the player, relative to their maximum health. For exa
 Spell casting is done by using a pattern (right and left) associated with a given spell slot on the player. The player has 8 spell slots available to them. Each spell consumes some amount of mana, depending on what components they used. Each component is associated with each mana type.
 
 ## Spellcraft
-I'll explain spellcraft later, gtg for now and I wanna save what I have for now.
-- [ ] Shapes
-- [ ] Effects
-- [ ] ~~Overclocks~~ idfk what to call the upgrades atm
+Spells are composed of different components. There's three different types of components, and components can be strung together effectively indefinitely in order to create unique spells.
+<br><br>
+The following are the three different types of components:
+- [ ] **Shapes** - dictates how a spell effect is cast (i.e. whether it would be a projectile, affect the self, or be an area of effect)
+- [ ] **Effects** - how the spell interacts with the world (i.e. setting fire to something, healing someone, or causing something to levitate)
+- [ ] **\[Name TBD]** - increases aspects of the preceding Shape or Effect (i.e. making an area of effect larger or dealing more damage)
