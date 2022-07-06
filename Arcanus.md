@@ -14,7 +14,7 @@ Mana is a term to describe multiple types of energy that flow through ley lines 
   - Opposite of Blue Mana
 - [ ] Blue Mana
   - Represents ???
-  - Opposite of Yellow Mana
+  - Opposite of Green Mana
 
 If you have too much of one type of mana relative to its opposite, there will be negative effects induced upon the player.
 
