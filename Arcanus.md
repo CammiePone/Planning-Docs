@@ -4,10 +4,10 @@
 ## Mana
 Mana is a term to describe multiple types of energy that flow through ley lines in the player's body, and are utilised for magic. The player starts off with anywhere between 3-10 mana (based on the player's UUID + world seed) in each of the four types, but this number can be increased through certain actions (TBD).
 - [ ] White Mana
-  - Represents ???
+  - Represents form, ???
   - Opposite of Black Mana
 - [ ] Black Mana
-  - Represents ???
+  - Represents matter, ???
   - Opposite of White Mana
 - [ ] Green Mana
   - Represents ???
