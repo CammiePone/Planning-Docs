@@ -1,7 +1,7 @@
 # Arcanus
 
 ## Mana
-Mana is a term to describe multiple fluids in the body utilised for casting magic. The player starts off with only 5 mana in each of the four types, but this number can be increased through certain actions (TBD).
+Mana is a term to describe multiple types of energy that flow through ley lines in the player's body, and are utilised for magic. The player starts off with anywhere between 3-10 mana (based on the player's UUID + world seed) in each of the four types, but this number can be increased through certain actions (TBD).
 - [ ] White Mana
   - Represents ???
   - Opposite of Black Mana
@@ -16,7 +16,7 @@ Mana is a term to describe multiple fluids in the body utilised for casting magi
   - Opposite of Yellow Mana
 
 ## Burnout
-Burnout is tied to another fluid, blood. It displaces the mana fluids, resulting in a lower yield of mana, and will remain there until removed. Burnout is only gotten when you try and cast a spell without having enough of the required mana, resulting in a tear that allows blood in.
+Burnout is a negative energy that will fill the player's ley lines, resulting in a lower yield of mana, and will remain there until removed. Burnout is only gotten when you try and cast a spell without having enough of the required mana, resulting in an imbalance in energies.
 <br><br>
 This also causes damage to the player, relative to their maximum health. For example, if you take 20% burnout of your maximum mana in one type, you will take 20% of your health as damage. If you take 20% of your maximum mana in two types, you will take 40% damage.
 
