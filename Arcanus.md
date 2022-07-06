@@ -1,4 +1,5 @@
 # Arcanus
+\[insert description here\]
 
 ## Mana
 Mana is a term to describe multiple types of energy that flow through ley lines in the player's body, and are utilised for magic. The player starts off with anywhere between 3-10 mana (based on the player's UUID + world seed) in each of the four types, but this number can be increased through certain actions (TBD).
