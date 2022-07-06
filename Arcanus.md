@@ -16,6 +16,8 @@ Mana is a term to describe multiple types of energy that flow through ley lines 
   - Represents ???
   - Opposite of Yellow Mana
 
+If you have too much of one type of mana relative to its opposite, there will be negative effects induced upon the player.
+
 ## Burnout
 Burnout is a negative energy that will fill the player's ley lines, resulting in a lower yield of mana, and will remain there until removed. Burnout is only gotten when you try and cast a spell without having enough of the required mana, resulting in an imbalance in energies.
 <br><br>
