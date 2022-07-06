@@ -32,4 +32,4 @@ Spells are composed of different components. There's three different types of co
 The following are the three different types of components:
 - [ ] **Shapes** - dictates how a spell effect is cast (i.e. whether it would be a projectile, affect the self, or be an area of effect)
 - [ ] **Effects** - how the spell interacts with the world (i.e. setting fire to something, healing someone, or causing something to levitate)
-- [ ] **\[Name TBD]** - increases aspects of the preceding Shape or Effect (i.e. making an area of effect larger or dealing more damage)
+- [ ] **Attunements** - increases aspects of the preceding Shape or Effect (i.e. making an area of effect larger or dealing more damage)
