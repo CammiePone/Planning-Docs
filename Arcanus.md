@@ -9,12 +9,12 @@ Mana is a term to describe multiple types of energy that flow through ley lines 
 - [ ] Black Mana
   - Represents matter and creation
   - Compliment of White Mana
-- [ ] Green Mana
+- [ ] Yellow Mana
   - Represents action and change
   - Compliment of Blue Mana
 - [ ] Blue Mana
   - Represents motion and energy 
-  - Compliment of Green Mana
+  - Compliment of Yellow Mana
 
 If you have too much of one type of mana relative to its opposite, there will be negative effects induced upon the player.
 
