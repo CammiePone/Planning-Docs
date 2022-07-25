@@ -198,13 +198,17 @@
   - [ ] Thief's Gambit (Complex)
     - Allows the caster to "steal" another player's currently selected spell, locking it from being cast and temporarily replacing this spell with that. Lasts 10 seconds or until the caster dies. Will also cancel a spell's effects if it's currently being cast.
   - [ ] Temporal Disruption (Unique)
-    - Stops time for all entities and block entities in a localised area around the caster.
+    - Slows down time for all entities and block entities in a localised area around the caster.
+    - If wearing the North Cultist Leader Robes, it will completely stop time.
   - [ ] Planeswalker (Unique)
-    - Places the player on another spacial plane, making the player unable to interact with other entities.
+    - Places the player on another spacial plane, making the caster unable to interact with other entities.
+    - If wearing the South Cultist Leader Robes, the caster can phase through blocks.
   - [ ] Restraint Level Zero (Unique)
-    - Makes all other spell casting free for the duration of the spell, as well as halves the cooldowns for all spells cast.
+    - Makes all other spell casting free for the duration of the spell.
+    - If wearing the East Cultist Leader Robes, all spell cooldowns are halved.
   - [ ] Aura Prodigy (Unique)
-    - Gain 100% proficiency with all 5 spell categories while active, allowing the player to cast any spell without consquence.
+    - Gain 100% proficiency with all 5 spell categories while active.
+    - If wearing the West Cultist Leader Robes, \[TBD\].
 
 ## Cults
 - [ ] Cults are groups of mages who formed around ancient Gemstone Tablets, tied to certain Specialist spells, making them the only source of these Specialist spells in the world.
