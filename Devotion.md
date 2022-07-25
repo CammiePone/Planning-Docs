@@ -1,10 +1,10 @@
 # Devotion
 
 ## Casting System
-- [ ] Casting is handled by selecting a spell in a radial menu, setting the player's Spell Charge to the selected spell.
-  - [ ] The player's Spell Charge will display at the bottom right side of the screen.
-  - [ ] The player can open the spell selection screen by holding Right Click while holding a wand, and select a spell by mousing over it and letting go of Right Click.
-  - [ ] The player can cast their Spell Charge by Left Clicking.
+- [ ] Casting is handled by opening a radial menu for the player's spell inventory, and selecting a spell.
+  - [ ] The player's selected spell will display at the bottom right side of the screen.
+  - [ ] The player can then cast their chosen spell by simply right clicking (preferably with an open hand).
+  - [ ] Some spells last a certain amount of time, while others are instant or have to be held to cast.
 - [ ] Spells have 3 levels of complexity, each consuming a certain amount of aura:
   - [ ] Simple (1 aura)
   - [ ] Intricate (2 aura)
