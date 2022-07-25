@@ -140,7 +140,7 @@
   - [ ] Discharge (Intricate)
     - Your aura forms an electrified field around you, stunning entities.
   - [ ] Rejuvinating Presence (Intricate)
-    - Heals all nearby entities while active, regardless of allegiance.
+    - Heals all nearby entities while active at a rate of 1 hp/second, regardless of allegiance.
   - [ ] Bungee Gum (Complex)
     - When cast, it creates a bubble of aura around the player that catches projectiles. When cast again, it will launch those projectiles in the opposite direction they were caught in.
   - [ ] Suppression Field (Complex)
