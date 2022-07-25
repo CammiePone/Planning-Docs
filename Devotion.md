@@ -139,10 +139,12 @@
     - Your aura forms into multiple spikes, forming a ball of needles around the player that hurts anyone that gets too close.
   - [ ] Discharge (Intricate)
     - Your aura forms an electrified field around you, stunning entities.
+  - [ ] Rejuvinating Presence (Intricate)
+    - Heals all nearby entities while active, regardless of allegiance.
   - [ ] Bungee Gum (Complex)
     - When cast, it creates a bubble of aura around the player that catches projectiles. When cast again, it will launch those projectiles in the opposite direction they were caught in.
   - [ ] Suppression Field (Complex)
-    - Blocks all magic from being cast in a radius around you.
+    - Blocks all magic from being cast in a radius around you. Causes spells that enter it to fizzle out.
 - [ ] Emission Spells
   - [ ] Magic Missile (Simple)
     - Launches a weak projectile made of aura.
@@ -152,15 +154,17 @@
     - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone.
   - [ ] Aura Stream (Intricate)
     - Fires a sustained, piercing beam of pure aura that damages entities.
+  - [ ] Healing Orb (Intricate)
+    - Fires an orb that, upon making contact with an entity, latches on and heals them for 1 hp every 0.5 seconds for 5 seconds.
   - [ ] Bouncing Charge (Complex)
-    - Fires a bouncing projectile that targets nearby entities.
+    - Fires a projectile that bounces off blocks and entities, and targets other nearby entities.
   - [ ] Master Spark (Complex)
-    - Haha very powerful beam attack go BRRRRRRRR.
+    - Haha very powerful rainbow beam go BRRRRRRRR.
 - [ ] Conjuration Spells
   - [ ] Arcane Hand (Simple)
     - Summons a magical hand that attacks anything nearby indiscriminently.
   - [ ] Spring Totem (Simple)
-    - Creates a totem that will bonemeal nearby plants.
+    - Creates a totem that will bonemeal nearby plants and heal entities for 1 hp/second.
   - [ ] Black Tentacles (Intricate)
     - Summons a ring of tentacles that will attack anything that gets too close.
   - [ ] Summon Shade (Intricate)
@@ -169,6 +173,8 @@
     - Summons a void in space that pulls all entities towards it and deals damage.
   - [ ] Satellite Dragonfly (Complex)
     - Creates a dragongly-like entity that the player can control and see through.
+  - [ ] Crazy Slots (Complex)
+    - Rolls a number 1-9 and gives the player a random powerful weapon for a few seconds.
 - [ ] Manipulation Spells
   - [ ] Pacify (Simple)
     - Temporarily makes hostile mobs neutral.
