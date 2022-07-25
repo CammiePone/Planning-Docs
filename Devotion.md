@@ -192,9 +192,11 @@
   - [ ] Impersonate (Simple)
     - Take the appearance of another player, including appearing as if you're wearing the same gear that they are wearing.
   - [ ] Arcane Binding (Intricate)
-    - Lets you link yourself to another player, giving you both large buffs but forces you to physically be within a certain distance of each other.
+    - Lets you link yourself to another entity, giving you both large buffs but forces you to physically be within a certain distance of each other.
   - [ ] Pocket Dimension (Complex)
-    - Creates a hole in space, sucking all nearby entities into a pocket dimension.
+    - Creates a portal on the ground/in a wall (either where the caster clicks, or at their feet if no location exists) that lasts for 10 seconds. If an entity walks into/over it, they will enter the pocket dimension.
+  - [ ] Thief's Gambit (Complex)
+    - Allows the caster to "steal" another player's currently selected spell, locking it from being cast and temporarily replacing this spell with that. Lasts 10 seconds or until the caster dies. Will also cancel a spell's effects if it's currently being cast.
   - [ ] Temporal Disruption (Unique)
     - Stops time for all entities and block entities in a localised area around the caster.
   - [ ] Planeswalker (Unique)
