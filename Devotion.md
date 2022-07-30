@@ -1,5 +1,10 @@
 # Devotion
 
+## Scripts of Devotion
+- [ ] Obtained from finding a Mage Tower, talking with the mage atop the tower, and beating him in a fight. He will unlock your aura and give you the book.
+- [ ] You can make the book later by right clicking on a bookshelf while in casting mode.
+- [ ] Contains the research tree, helping players progress through the mod.
+
 ## Casting System
 - [ ] Casting is handled by opening a radial menu for the player's spell inventory, and selecting a spell.
   - [ ] The player's selected spell will display at the bottom right side of the screen.
@@ -12,7 +17,7 @@
 - [ ] There are also Unique spells, which will drain a player's Aura at a rate of 1 per second.
 
 ## Research System
-- [ ] Research is done by giving players a 6-dot grid in the shape of a pentagon with one dot in the middle, representing the Aura Diagram abstractly. The player is also provided with a 6 line riddle, where each line describes one of the Aura Types. Connecting the dots in the order provided by the riddle will complete the research.
+- [ ] Research is done by giving players a 6-dot grid in the shape of a pentagon with one dot in the middle, representing the Aura Diagram abstractly. The player is also provided with a 4-8 line riddle, where each line describes one of the Aura Types. Connecting the dots in the order provided by the riddle will complete the research.
   - [ ] To make it easier to connect the dots, so to speak, there will be an Aura Diagram behind the riddle text as decoration on the book's page.
   - [ ] Doubles as a way to get players familiar with the Aura Types so when they want to suggest spells, I don't have to tell people that the spell they're suggesting doesn't fit the category they think it fits.
 
