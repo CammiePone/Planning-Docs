@@ -135,12 +135,14 @@
     - Your aura forms into a magnetic field, pulling entities closer to you.
   - [ ] Ring of Fire (Simple)
     - Your aura forms a ring of fire around you that ignites entities and blocks.
-  - [ ] Porcupine (Intricate)
-    - Your aura forms into multiple spikes, forming a ball of needles around the player that hurts anyone that gets too close.
+  - [ ] Mage Block (Intricate)
+    - Creates a temporary, unbreakable block out of aura in front of the player.
   - [ ] Discharge (Intricate)
     - Your aura forms an electrified field around you, stunning entities.
   - [ ] Rejuvinating Presence (Intricate)
     - Heals all nearby entities while active at a rate of 1 hp/second, regardless of allegiance.
+  - [ ] Circle of Vigor (Complex)
+    - Creates a healing AOE on the ground that will heal anything that stands inside it at a rate of 2 hp/second.
   - [ ] Bungee Gum (Complex)
     - When cast, it creates a bubble of aura around the player that catches projectiles. When cast again, it will launch those projectiles in the opposite direction they were caught in.
   - [ ] Suppression Field (Complex)
@@ -150,6 +152,8 @@
     - Launches a weak projectile made of aura.
   - [ ] Chaos Bolt (Simple)
     - Fires a bolt of aura that deals a random damage type to whatever it hits.
+  - [ ] Mage Light (Simple)
+    - Launches a projectile that, upon hitting a block, turns into a 15 brought light source. If it hits an entity, it afflicts them with Glowing.
   - [ ] Excavate (Intricate)
     - Lobs a projectile that mines large chunks of materials as strong as, or weaker than, stone.
   - [ ] Aura Stream (Intricate)
@@ -169,6 +173,8 @@
     - Summons a ring of tentacles that will attack anything that gets too close.
   - [ ] Summon Shade (Intricate)
     - Creates a shadow-like entity that attacks anything that interacts with the block it's spawned in.
+  - [ ] Geyser (Intricate)
+    - Creates a geyser of water at the targetted block, which will launch entities into the air.
   - [ ] Black Hole (Complex)
     - Summons a void in space that pulls all entities towards it and deals damage.
   - [ ] Satellite Dragonfly (Complex)
