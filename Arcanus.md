@@ -45,7 +45,7 @@ Spell come in the form of spell books. Each spell has a base form, and then 3 op
   - Vampiric Orb - attaches to an entity and sabs their heal to the caster at a rate of 1 HP per second. Lasts for 5 seconds.
 - Summon Fangs - summons a line of evoker fangs that bite any entity caught in them.
   - Summon Vex - summons a Vex to fight on behalf of the caster.
-  - Summon Clone - summons a clone of the caster that runs in the direction the caster was looking until it hits a wall or gets hit. Renders the caster invisible
+  - Summon Clone - summons a clone of the caster that runs in the direction the caster was looking until it hits a wall or gets hit. Renders the caster invisible until the clone disappears.
   - ??? - ???
 - Mana Burst - creates a very powerful explosion of raw mana from the caster's feet. Imparts some mana on all targets.
   - Solar Strike - calls down a massive beam of mana from the sky upon a target. Imparts some mana on all targets.
