@@ -1,35 +1,45 @@
 # Arcanus
-\[insert description here\]
 
 ## Mana
-Mana is a term to describe multiple types of energy that flow through ley lines in the player's body, and are utilised for magic. The player starts off with anywhere between 3-10 mana (based on the player's UUID + world seed) in each of the four types, but this number can be increased through certain actions (TBD).
-- [ ] White Mana
-  - Represents form and healing
-  - Compliment of Black Mana
-- [ ] Black Mana
-  - Represents matter and creation
-  - Compliment of White Mana
-- [ ] Yellow Mana
-  - Represents action and change
-  - Compliment of Blue Mana
-- [ ] Blue Mana
-  - Represents motion and energy 
-  - Compliment of Yellow Mana
-
-If you have too much of one type of mana relative to its opposite, there will be negative effects induced upon the player.
+The player starts off with 10 mana, but can grow their mana reserves up to 100 by speaking with the wizard who gives you quests.
+- Mana regenerates at a rate of 1 per 2 seconds by default, but can be sped up.
 
 ## Burnout
-Burnout is a negative energy that will fill the player's ley lines, resulting in a lower yield of mana, and will remain there until removed. Burnout is only gotten when you try and cast a spell without having enough of the required mana, resulting in an imbalance in energies.
-<br><br>
-This also causes damage to the player, relative to their maximum health. For example, if you take 20% burnout of your maximum mana in one type, you will take 20% of your health as damage. If you take 20% of your maximum mana in two types, you will take 40% damage.
+If a player doesn't have enough mana to cast a spell, they will be afflicted with burnout. Burnout will make the player more sluggish and drain their hunger rapidly, slowing down their ability to cast spells.
+- Burnout goes away at a rate of 1 per 4 seconds by default, but can be sped up.
+
+## Staves
+Staves are a wizard's mana focus, allowing them to cast spells to begin with.
+- Wooden Staff
+  - Has no bonuses, it's just a wooden staff.
+- Amethyst Shard Staff
+  - The target of a spell will have some of their mana drained and returned back to the caster.
+- Quartz Shard Staff
+  - The target of a spell gets set on fire (or soul fire if it's a fire-based spell).
+- Ender Shard Staff
+  - ???
+- Echo Shard Staff
+  - Creates an echo of a spell that bypasses invulnerability frames.
 
 ## Casting
-Spell casting is done by using a pattern (right and left) associated with a given spell slot on the player. The player has 8 spell slots available to them. Each spell consumes some amount of mana, depending on what components they used. Each component is associated with each mana type.
+Spell casting is done by using a pattern (right and left) associated with a given spell slot on the player's staff. Each staff has 8 spell slots available to them. When you cast a spell, the player's mana is consumed and a spell is cast instantly.
+- If the player holds down the last button they pressed, the spell will cast in quick succession based on its cooldown.
 
 ## Spellcraft
-Spells are composed of different components. There's three different types of components, and components can be strung together effectively indefinitely in order to create unique spells.
-<br><br>
-The following are the three different types of components:
-- [ ] **Shapes** - dictates how a spell effect is cast (i.e. whether it would be a projectile, affect the self, or be an area of effect)
-- [ ] **Effects** - how the spell interacts with the world (i.e. setting fire to something, healing someone, or causing something to levitate)
-- [ ] **Attunements** - increases aspects of the preceding Shape or Effect (i.e. making an area of effect larger or dealing more damage)
+Spell come in the form of spell books. Each spell has a base form, and then 3 optional side-grades.
+- Incinerate - sets things on fire in a cone in front of the player. Ignites entities.
+  - Immolate - creates a piercing stream of fire in front of the player. Ignites entities.
+  - Fireball - launches a fireball in the direction the player is looking. Ignites blocks and entities.
+  - ??? - ???
+- Spark - creates electrical arcs all around the player, stunning anything it hits for a short while.
+  - Lightning Bolt - a directional bolt of electricity that deals a lot of damage.
+  - ??? - ???
+  - ??? - ???
+- Heal - heals the caster for 5 HP.
+  - Invigorating Aura - heals any entities that stand inside the sigil for 1 HP per second. Lasts for 10 seconds.
+  - Orb of Regeneration - attaches to an entity and heals them for 2 HP per second. Lasts for 10 seconds.
+  - ??? - ???
+
+## Structures
+
+## Origin
