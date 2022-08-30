@@ -43,8 +43,8 @@ Spell come in the form of spell books. Each spell has a base form, and then 3 op
   - Invigorating Aura - heals any entities that stand inside the sigil for 1 HP per second. Lasts for 10 seconds.
   - Orb of Regeneration - attaches to an entity and heals them for 2 HP per second. Lasts for 10 seconds.
   - ??? - ???
-- Evoker Fangs - creates a line of evoker fangs that bite any entity caught in them.
-  - Evoker Rings - same as Evoker Fangs, but concentric rings around the player. Doesn't go as far.
+- Summon Fangs - summons a line of evoker fangs that bite any entity caught in them.
+  - Summon Vex - summons a Vex to fight on behalf of the caster.
   - ??? - ???
   - ??? - ???
 - Mana Burst - creates a very powerful burst of raw mana around the caster. Imparts some mana on all targets.
