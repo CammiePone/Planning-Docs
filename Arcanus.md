@@ -27,6 +27,10 @@ Spell casting is done by using a pattern (right and left) associated with a give
 
 ## Spellcraft
 Spell come in the form of spell books. Each spell has a base form, and then 3 optional side-grades.
+- Magic Missile - fires a magical projectile that deals moderate damage.
+  - Piercing Arrow - fires a magical arrow that pierces entities and shields.
+  - ??? - ???
+  - ??? - ???
 - Incinerate - sets things on fire in a cone in front of the player. Ignites entities.
   - Immolate - creates a piercing stream of fire in front of the player. Ignites entities.
   - Fireball - launches a fireball in the direction the player is looking. Ignites blocks and entities.
