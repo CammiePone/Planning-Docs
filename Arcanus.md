@@ -37,11 +37,15 @@ Spell come in the form of spell books. Each spell has a base form, and then 3 op
   - ??? - ???
 - Spark - creates electrical arcs all around the player, stunning anything it hits for a short while.
   - Lightning Bolt - a directional bolt of electricity that deals a lot of damage.
-  - ??? - ???
+  - Shocking Arc - creates a weak bolt of electricity that arcs between up to 5 entities, stunning them for a short while.
   - ??? - ???
 - Heal - heals the caster for 5 HP.
   - Invigorating Aura - heals any entities that stand inside the sigil for 1 HP per second. Lasts for 10 seconds.
   - Orb of Regeneration - attaches to an entity and heals them for 2 HP per second. Lasts for 10 seconds.
+  - ??? - ???
+- Evoker Fangs - creates a line of evoker fangs that bite any entity caught in them.
+  - Evoker Rings - same as Evoker Fangs, but concentric rings around the player. Doesn't go as far.
+  - ??? - ???
   - ??? - ???
 
 ## Structures
