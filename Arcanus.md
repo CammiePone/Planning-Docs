@@ -15,7 +15,7 @@ Staves are a wizard's mana focus, allowing them to cast spells to begin with.
 - Amethyst Shard Staff
   - The target of a spell will have some of their mana drained and returned back to the caster.
 - Quartz Shard Staff
-  - The target of a spell gets set on fire (or soul fire if it's a fire-based spell).
+  - If you're burnt out, your spells are double effective.
 - Ender Shard Staff
   - Teleports the target of a spell, with a random camera yaw.
 - Echo Shard Staff
