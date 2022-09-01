@@ -47,6 +47,10 @@ Spell come in the form of spell books. Each spell has a base form, and then 3 op
   - Summon Vex - summons a Vex to fight on behalf of the caster.
   - Summon Clone - summons a clone of the caster that runs in the direction the caster was looking until it hits a wall or gets hit. Renders the caster invisible until the clone disappears.
   - ??? - ???
+- Withering - inflicts Wither II on an enemy.
+  - Hellish Skull - fires a wither skull, with a 10% chance to be a blue one.
+  - Wither Armour - increases your armour points by 4 and makes you immune to projectiles.
+  - ??? - ???
 - Mana Burst - creates a very powerful explosion of raw mana from the caster's feet. Imparts some mana on all targets.
   - Solar Strike - calls down a massive beam of mana from the sky upon a target. Imparts some mana on all targets.
   - Mana Sphere - launches a fast-moving projectile of raw mana that deals a lot of knockback. Imparts some mana on its target.
