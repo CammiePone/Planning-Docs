@@ -25,6 +25,9 @@ Staves are a wizard's mana focus, allowing them to cast spells to begin with.
 Spell casting is done by using a pattern (right and left) associated with a given spell slot on the player's staff. Each staff has 8 spell slots available to them. When you cast a spell, the player's mana is consumed and a spell is cast instantly.
 - If the player holds down the last button they pressed, the spell will cast in quick succession based on its cooldown.
 
+## Enchantments
+- Mana Jammer - a shield enchantment that causes spells, even shield-piercing ones, to be dispelled when coming in contact with the shield.
+
 ## Spellcraft
 Spell come in the form of spell books. Each spell has a base form, and then 3 optional side-grades.
 - Magic Missile - fires a magical projectile that deals damage.
