@@ -2,7 +2,7 @@
 Here Be Dragons adds a dragon mob that can be found in the overworld. You can slay them, steal their eggs to raise as your own, steal their hoard, or simply co-exist with them.
 
 ## Scale Colours
-All scale colours come in solid, stripped, and spotted variants.
+All scale colours come in solid, striped, and spotted variants.
 - [ ] Red
 - [ ] Purple
 - [ ] Blue
