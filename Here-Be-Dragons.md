@@ -19,7 +19,9 @@ A dragon's breath attack is based on what mineral predominantly made up its diet
 - [ ] ??? - Emeralds
 - [ ] Ice - Iron
 - [ ] Decay - Copper
-- [ ] Plasma - Silver
+- [ ] Plasma - Amethyst
+- [ ] Sound - Echo Shards
+- [ ] ??? - Silver
 
 ## Mechanics
 - [ ] Dragons have 3 stages of growth: Hatchling, Adolescent, and Adult
