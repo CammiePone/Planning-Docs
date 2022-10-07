@@ -4,10 +4,10 @@ Here Be Dragons adds a dragon mob that can be found in the overworld. You can sl
 ## Scale Colours
 All scale colours come in solid, striped, and spotted variants.
 - [ ] Red
-- [ ] Purple
 - [ ] Blue
 - [ ] Green
-- [ ] Bronze
+- [ ] Purple
+- [ ] Copper
 - [ ] Silver
 - [ ] Gold
 - [ ] Black
