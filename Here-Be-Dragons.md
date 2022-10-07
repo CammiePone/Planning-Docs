@@ -15,11 +15,11 @@ All scale colours come in solid, striped, and spotted variants.
 ## Breath Attacks
 A dragon's breath attack is based on what mineral predominantly made up its diet as a hatchling. A dragon's appearance and behaviour differs depending on what its breath attack is.
 - [ ] Fire - Gold
-- [ ] Soul Fire - Ancient Scrap
-- [ ] Lightning - Diamonds
+- [ ] Soul Fire - Diamonds
+- [ ] Lightning - Ancient Scrap
 - [ ] ??? - Emeralds
 - [ ] Ice - Iron
-- [ ] Decay - Copper
+- [ ] Poison - Copper
 - [ ] Plasma - Amethyst
 - [ ] Sound - Echo Shards
 - [ ] ??? - Silver
