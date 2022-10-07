@@ -18,7 +18,7 @@ A dragon's breath attack is based on what mineral predominantly made up its diet
 - [ ] Lightning - Diamonds
 - [ ] ??? - Emeralds
 - [ ] Ice - Iron
-- [ ] ??? - Copper
+- [ ] Decay - Copper
 - [ ] Plasma - Silver
 
 ## Mechanics
