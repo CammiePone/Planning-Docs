@@ -14,14 +14,14 @@ All scale colours come in solid, striped, and spotted variants.
 
 ## Breath Attacks
 A dragon's breath attack is based on what mineral predominantly made up its diet as a hatchling. A dragon's appearance and behaviour differs depending on what its breath attack is.
-- [ ] Fire - Gold
-- [ ] Soul Fire - Diamonds
+- [ ] Flame - Gold
+- [ ] Soul Flame - Diamonds
 - [ ] Lightning - Ancient Scrap
-- [ ] Wind - Emeralds
+- [ ] Gale - Emeralds
 - [ ] Poison Gas - Copper
-- [ ] Plasma - Amethyst
-- [ ] Sound - Echo Shards
-- [ ] Ice - Silver
+- [ ] Plasma Bolt - Amethyst
+- [ ] Shriek - Echo Shards
+- [ ] Frost - Silver
 
 ## Mechanics
 - [ ] Dragons have 3 stages of growth: Hatchling, Adolescent, and Adult
