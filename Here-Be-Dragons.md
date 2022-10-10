@@ -17,7 +17,7 @@ A dragon's breath attack is based on what mineral predominantly made up its diet
 - [ ] Fire - Gold
 - [ ] Soul Fire - Diamonds
 - [ ] Lightning - Ancient Scrap
-- [ ] ??? - Emeralds
+- [ ] Wind - Emeralds
 - [ ] Poison Gas - Copper
 - [ ] Plasma - Amethyst
 - [ ] Sound - Echo Shards
