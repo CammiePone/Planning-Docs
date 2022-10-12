@@ -27,4 +27,5 @@ A dragon's breath attack is based on what mineral predominantly made up its diet
 ## Mechanics
 - [ ] Dragons have 3 stages of growth: Hatchling, Adolescent, and Adult
   - [ ] When a dragon grows up, it sheds its scales, allowing the player to obtain them for armour
-  - [ ] Scales from one type of dragon only resist the breath attack of the same type of dragon (i.e. a lightning dragon only resists lightning and not fire)
+  - [ ] Dragon scale armour resists all dragon breath attack effects by 50% if wearing the full set, but is only equal to iron in terms of protection
+- [ ] Only wild dragons are able to lay eggs. Dragons hatched by a player will be unable to lay eggs
