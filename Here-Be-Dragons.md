@@ -3,6 +3,8 @@ Here Be Dragons adds a dragon mob that can be found in the overworld. You can sl
 
 ## Scale Colours
 All scale colours come in solid, striped, and spotted variants.
+- [ ] Black
+- [ ] White
 - [ ] Red
 - [ ] Blue
 - [ ] Green
@@ -10,7 +12,6 @@ All scale colours come in solid, striped, and spotted variants.
 - [ ] Copper
 - [ ] Silver
 - [ ] Gold
-- [ ] Black
 
 ## Breath Attacks
 A dragon's breath attack is based on what mineral predominantly made up its diet as a hatchling. A dragon's appearance and behaviour differs depending on what its breath attack is.
