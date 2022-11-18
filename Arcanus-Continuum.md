@@ -1,0 +1,70 @@
+# Arcanus: Continuum
+
+## Mana
+The player starts off with 10 mana, but can grow their mana reserves up to 100 by speaking with the wizard who gives you quests.
+- Mana regenerates at a rate of 1 per 2 seconds by default, but can be sped up.
+
+## Burnout
+If a player doesn't have enough mana to cast a spell, they will be afflicted with burnout. Burnout will make the player more sluggish and drain their hunger rapidly, slowing down their ability to cast spells.
+- Burnout goes away at a rate of 1 per 4 seconds by default, but can be sped up.
+
+## Staves
+Staves are a wizard's mana focus, allowing them to cast spells to begin with.
+- Wooden Staff
+  - Has no bonuses, it's just a wooden staff.
+- Amethyst Shard Staff
+  - The target of a spell will have some of their mana drained and returned back to the caster.
+- Quartz Shard Staff
+  - If you're burnt out, your spells are double effective.
+- Ender Shard Staff
+  - ???
+- Echo Shard Staff
+  - Creates an echo of a spell that bypasses invulnerability frames.
+
+## Casting
+Spell casting is done by using a pattern (right and left) associated with a given spell slot on the player's staff. Each staff has 8 spell slots available to them. When you cast a spell, the player's mana is consumed and a spell is cast instantly.
+- If the player holds down the last button they pressed, the spell will cast in quick succession based on its cooldown.
+
+## Enchantments
+- Mana Jammer - a shield enchantment that causes spells, even shield-piercing ones, to be dispelled when coming in contact with the shield.
+
+## Spellcraft
+Spells are crafted from two main components: Spell Forms and Spell Mods
+- [ ] Spell Forms:
+  - [ ] Self - affects the caster
+  - [ ] Touch - affects entities directly in front of the caster
+  - [ ] Projectile - fires a fast, weightless projectile
+  - [ ] Lob - launches a slow, weighted projectile
+  - [ ] Bolt - fires short-range targeting bolt in front of the caster
+  - [ ] Beam - forms a beam between the caster and a target, locking on and charging
+  - [ ] Rune - summons a rune that effects a target upon being stepped on
+  - [ ] Smite - fires down a large AOE beam from the sky
+  - [ ] Geyser - forms a geyser that erupts after a short time
+- [ ] Spell Mods:
+  - [ ] Damage - deals damage to the target
+  - [ ] Heal - heals the target
+  - [ ] Fire - sets the target on fire
+  - [ ] Electric - stuns the target briefly
+  - [ ] Ice - makes the target cold
+  - [ ] Push - pushes the target away
+  - [ ] Pull - pulls the target closer
+  - [ ] Teleport - teleports the caster to the target
+  - [ ] Dispel - removes effects from the target
+  - [ ] Invisibility - turns the target invisible
+  - [ ] Wither - withers the target
+  - [ ] Vulnerability - makes the target more susceptible to damage
+  - [ ] Mana Split - averages the caster and target's mana
+  - [ ] Chain - casts the spell again from where the target
+  - [ ] Delay - delays the next modifier or form briefly
+
+## Structures
+- Wizard Tower
+  - Stands about 48 blocks tall, and houses a wizard at the top. Speaking with the wizard will initiate quests for the player to do in order to increase their mana reserves, or to upgrade their spells.
+
+## Mobs
+- Wizard
+  - Neutral mob that will speak with any player wearing wizard robes.
+  - Gives quests to the player to upgrade their mana reserves or their spells. Quests reset every new moon.
+  - If attacked, it will attack back with magic. Can have up to 8 spells, and if killed, it will drop the spells it had and cause the tower to crumble.
+
+## Origin
