@@ -52,7 +52,6 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Exchange - swaps the position of the caster and the target
   - [ ] Dispel - removes all effects from the target
   - [ ] Mana Lock - locks the targets's mana, preventing them from casting spells
-  - [ ] Invisibility - turns the target invisible
   - [ ] Withering - inflicts the target with wither
   - [ ] Regenerate - gives the target regeneration
   - [ ] Vulnerability - makes the target more susceptible to damage
