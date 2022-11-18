@@ -61,8 +61,7 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Power - creates a redstone signal
   - [ ] Necromancy - upon killing an entity with a spell with this mod, it will raise an undead minion
   - [ ] Mana Split - averages the caster and target's mana
-  - [ ] Chain - casts the spell again from where the target
-  - [ ] Delay - delays the next modifier or form briefly
+  - [ ] Anonymity - makes the target anonymous by hiding the name and skin
 
 ## Structures
 - [ ] Wizard Tower
