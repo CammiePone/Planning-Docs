@@ -46,13 +46,19 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Fire - sets the target on fire
   - [ ] Electric - stuns the target briefly
   - [ ] Ice - makes the target cold
-  - [ ] Push - pushes the target away
-  - [ ] Pull - pulls the target closer
+  - [ ] Push - pushes the target away from the caster
+  - [ ] Pull - pulls the target closer towards the caster
   - [ ] Teleport - teleports the caster to the target
-  - [ ] Dispel - removes effects from the target
+  - [ ] Exchange - swaps the position of the caster and the target
+  - [ ] Dispel - removes all effects from the target
+  - [ ] Mana Lock - locks the targets's mana, preventing them from casting spells
   - [ ] Invisibility - turns the target invisible
-  - [ ] Wither - withers the target
+  - [ ] Linger - causes instant effects to spread out their effect over time (i.e. Damage and Heal)
   - [ ] Vulnerability - makes the target more susceptible to damage
+  - [ ] Bouncy - makes the target bouncy, as if they're on slime blocks
+  - [ ] Feather - gives the target slow falling
+  - [ ] Power - creates a redstone signal
+  - [ ] Necromancy - upon killing an entity with a spell with this mod, it will raise an undead minion
   - [ ] Mana Split - averages the caster and target's mana
   - [ ] Chain - casts the spell again from where the target
   - [ ] Delay - delays the next modifier or form briefly
