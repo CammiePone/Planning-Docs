@@ -53,7 +53,8 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Dispel - removes all effects from the target
   - [ ] Mana Lock - locks the targets's mana, preventing them from casting spells
   - [ ] Invisibility - turns the target invisible
-  - [ ] Linger - causes instant effects to spread out their effect over time (i.e. Damage and Heal)
+  - [ ] Withering - inflicts the target with wither
+  - [ ] Regenerate - gives the target regeneration
   - [ ] Vulnerability - makes the target more susceptible to damage
   - [ ] Bouncy - makes the target bouncy, as if they're on slime blocks
   - [ ] Feather - gives the target slow falling
