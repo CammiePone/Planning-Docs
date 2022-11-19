@@ -39,7 +39,7 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Beam - forms a beam between the caster and a target, locking on and charging
   - [ ] Rune - summons a rune that effects a target upon being stepped on
   - [ ] Smite - fires down a large AOE beam from the sky
-  - [ ] Geyser - forms a geyser that erupts after a short time
+  - [ ] AOE - forms an AOE of mana around the caster
 - Spell Mods:
   - [ ] Damage - deals damage to the target
   - [ ] Heal - heals the target
