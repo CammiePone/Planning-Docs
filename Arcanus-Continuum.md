@@ -77,5 +77,3 @@ Spells are crafted from two main components: Spell Shapes and Spell Effects
   - Neutral mob that will speak with any player wearing wizard robes.
   - Gives quests to the player to upgrade their mana reserves or their spells. Quests reset every new moon.
   - If attacked, it will attack back with magic. Can have up to 8 spells, and if killed, it will drop the spells it had and cause the tower to crumble.
-
-## Origin
