@@ -29,8 +29,8 @@ Staves are a wizard's mana focus, allowing them to cast spells to begin with.
 - [ ] Mana Jammer - a shield enchantment that causes spells, even shield-piercing ones, to be dispelled when coming in contact with the shield.
 
 ## Spellcraft
-Spells are crafted from two main components: Spell Forms and Spell Mods
-- Spell Forms:
+Spells are crafted from two main components: Spell Shapes and Spell Effects
+- Spell Shapes:
   - [ ] Self - affects the caster
   - [ ] Touch - affects entities directly in front of the caster
   - [ ] Projectile - fires a fast, weightless projectile
@@ -41,7 +41,7 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Smite - fires down a large AOE beam from the sky
   - [ ] AOE - forms an AOE of mana around the caster
   - [ ] Void - spawns a black hole that takes a few seconds to form and start casting its effects, as well as pulling targets towards it
-- Spell Mods:
+- Spell Effects:
   - [ ] Damage - deals damage to the target
   - [ ] Heal - heals the target
   - [ ] Fire - sets the target on fire
