@@ -40,6 +40,7 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Rune - summons a rune that effects a target upon being stepped on
   - [ ] Smite - fires down a large AOE beam from the sky
   - [ ] AOE - forms an AOE of mana around the caster
+  - [ ] Void - spawns a black hole that takes a few seconds to form and start casting its effects, as well as pulling targets towards it
 - Spell Mods:
   - [ ] Damage - deals damage to the target
   - [ ] Heal - heals the target
@@ -61,6 +62,11 @@ Spells are crafted from two main components: Spell Forms and Spell Mods
   - [ ] Necromancy - upon killing an entity with a spell with this mod, it will raise an undead minion
   - [ ] Mana Split - averages the caster and target's mana
   - [ ] Anonymity - makes the target anonymous by hiding the name and skin
+  - [ ] Mine - mines blocks, very simple
+  - [ ] Build - places the block in the caster's offhand
+  - [ ] Levitate - inflicts the target with levitation
+  - [ ] Transmutate - transmutates a mob into its alternate forms
+  - [ ] Growth - accelerates the growth of crops and baby animals
 
 ## Structures
 - [ ] Wizard Tower
