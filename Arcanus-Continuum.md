@@ -38,9 +38,9 @@ Spells are crafted from two main components: Spell Shapes and Spell Effects
   - [ ] Bolt - fires short-range targeting bolt in front of the caster
   - [ ] Beam - forms a beam between the caster and a target, locking on and charging
   - [ ] Rune - summons a rune that effects a target upon being stepped on
-  - [ ] Smite - fires down a large AOE beam from the sky
-  - [ ] AOE - forms an AOE of mana around the caster
-  - [ ] Void - spawns a black hole that takes a few seconds to form and start casting its effects, as well as pulling targets towards it
+  - [ ] Smite - fires down a large beam from the sky that hits everything from the ground to world height
+  - [ ] AOE - forms a persistent AOE effect around the caster
+  - [ ] Explosion - causes an explosion with the caster at the epicenter
 - Spell Effects:
   - [ ] Damage - deals damage to the target
   - [ ] Heal - heals the target
@@ -56,6 +56,7 @@ Spells are crafted from two main components: Spell Shapes and Spell Effects
   - [ ] Withering - inflicts the target with wither
   - [ ] Regenerate - gives the target regeneration
   - [ ] Vulnerability - makes the target more susceptible to damage
+  - [ ] Fortify - makes the target less susceptible to damage
   - [ ] Bouncy - makes the target bouncy, as if they're on slime blocks
   - [ ] Feather - gives the target slow falling
   - [ ] Power - creates a redstone signal
@@ -65,15 +66,14 @@ Spells are crafted from two main components: Spell Shapes and Spell Effects
   - [ ] Mine - mines blocks, very simple
   - [ ] Build - places the block in the caster's offhand
   - [ ] Levitate - inflicts the target with levitation
-  - [ ] Transmutate - transmutates a mob into its alternate forms
   - [ ] Growth - accelerates the growth of crops and baby animals
 
 ## Structures
-- [ ] Wizard Tower
-  - Stands about 48 blocks tall, and houses a wizard at the top. Speaking with the wizard will initiate quests for the player to do in order to increase their mana reserves, or to upgrade their spells.
+- [x] Wizard Tower
+  - Stands about 48 blocks tall, and houses a wizard at the top. Speaking with the wizard will initiate quests for the player to do in order to increase their mana reserves.
 
 ## Mobs
 - [ ] Wizard
   - Neutral mob that will speak with any player wearing wizard robes.
   - Gives quests to the player to upgrade their mana reserves or their spells. Quests reset every new moon.
-  - If attacked, it will attack back with magic. Can have up to 8 spells, and if killed, it will drop the spells it had and cause the tower to crumble.
+  - If attacked, it will attack back with magic. Can have up to 8 spells, and if killed, it will drop the spells it had.
