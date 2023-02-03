@@ -17,7 +17,7 @@ Staves are a wizard's mana focus, allowing them to cast spells to begin with.
 - [ ] Quartz Shard Staff
   - If you're burnt out, your spells are double effective.
 - [ ] Ender Shard Staff
-  - ???
+  - Halves the mana cost for movement-based spells.
 - [ ] Echo Shard Staff
   - Creates an echo of a spell that bypasses invulnerability frames.
 
