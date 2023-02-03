@@ -5,7 +5,7 @@
 - [x] Mana regenerates at a rate of 1 per 2 seconds by default, but can be sped up.
 
 ## Burnout
-- [x] If a player doesn't have enough mana to cast a spell, they will be afflicted with burnout. Burnout will make the player more sluggish and drain their hunger rapidly, slowing down their ability to cast spells.
+- [x] If a player doesn't have enough mana to cast a spell, they will be afflicted with burnout. Burnout will make the player more sluggish, slowing down their ability to cast spells and move.
 - [x] Burnout goes away at a rate of 1 per 4 seconds by default, but can be sped up.
 
 ## Staves
