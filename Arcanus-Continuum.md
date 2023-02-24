@@ -31,42 +31,42 @@ Staves are a wizard's mana focus, allowing them to cast spells to begin with.
 ## Spellcraft
 Spells are crafted from two main components: Spell Shapes and Spell Effects
 - Spell Shapes:
-  - [ ] Self - affects the caster
-  - [ ] Touch - affects entities directly in front of the caster
-  - [ ] Projectile - fires a fast, weightless projectile
-  - [ ] Lob - launches a slow, weighted projectile
-  - [ ] Bolt - fires short-range targeting bolt in front of the caster
-  - [ ] Beam - forms a beam between the caster and a target, locking on and charging
-  - [ ] Rune - summons a rune that effects a target upon being stepped on
-  - [ ] Smite - fires down a large beam from the sky that hits everything from the ground to world height
-  - [ ] AOE - forms a persistent AOE effect around the caster
-  - [ ] Explosion - causes an explosion with the caster at the epicenter
+  - [x] Self - affects the caster
+  - [x] Touch - affects entities directly in front of the caster
+  - [x] Projectile - fires a fast, weightless projectile
+  - [x] Lob - launches a slow, weighted projectile
+  - [x] Bolt - fires short-range targeting bolt in front of the caster
+  - [x] Beam - forms a beam between the caster and a target, locking on and charging
+  - [x] Rune - summons a rune that effects a target upon being stepped on
+  - [x] Smite - fires down a large beam from the sky that hits everything from the ground to world height
+  - [x] AOE - forms a persistent AOE effect around the caster
+  - [x] Explosion - causes an explosion with the caster at the epicenter
 - Spell Effects:
-  - [ ] Damage - deals damage to the target
-  - [ ] Heal - heals the target
-  - [ ] Fire - sets the target on fire
-  - [ ] Electric - stuns the target briefly
-  - [ ] Ice - makes the target cold
-  - [ ] Push - pushes the target away from the caster
-  - [ ] Pull - pulls the target closer towards the caster
-  - [ ] Teleport - teleports the caster to the target
-  - [ ] Exchange - swaps the position of the caster and the target
-  - [ ] Dispel - removes all effects from the target
-  - [ ] Mana Lock - locks the targets's mana, preventing them from casting spells
-  - [ ] Withering - inflicts the target with wither
-  - [ ] Regenerate - gives the target regeneration
-  - [ ] Vulnerability - makes the target more susceptible to damage
-  - [ ] Fortify - makes the target less susceptible to damage
-  - [ ] Bouncy - makes the target bouncy, as if they're on slime blocks
-  - [ ] Feather - gives the target slow falling
-  - [ ] Power - creates a redstone signal
-  - [ ] Necromancy - upon killing an entity with a spell with this mod, it will raise an undead minion
-  - [ ] Mana Split - averages the caster and target's mana
-  - [ ] Anonymity - makes the target anonymous by hiding the name and skin
-  - [ ] Mine - mines blocks, very simple
-  - [ ] Build - places the block in the caster's offhand
-  - [ ] Levitate - inflicts the target with levitation
-  - [ ] Growth - accelerates the growth of crops and baby animals
+  - [x] Damage - deals damage to the target
+  - [x] Heal - heals the target
+  - [x] Fire - sets the target on fire
+  - [x] Electric - stuns the target briefly
+  - [x] Ice - makes the target cold
+  - [x] Push - pushes the target away from the caster
+  - [x] Pull - pulls the target closer towards the caster
+  - [x] Teleport - teleports the caster to the target
+  - [x] Exchange - swaps the position of the caster and the target
+  - [x] Dispel - removes all effects from the target
+  - [x] Mana Lock - locks the targets's mana, preventing them from casting spells
+  - [x] Withering - inflicts the target with wither
+  - [x] Regenerate - gives the target regeneration
+  - [x] Vulnerability - makes the target more susceptible to damage
+  - [x] Fortify - makes the target less susceptible to damage
+  - [x] Bouncy - makes the target bouncy, as if they're on slime blocks
+  - [x] Feather - gives the target slow falling
+  - [x] Power - creates a redstone signal
+  - [x] Necromancy - upon killing an entity with a spell with this mod, it will raise an undead minion
+  - [x] Mana Split - averages the caster and target's mana
+  - [x] Anonymity - makes the target anonymous by hiding the name and skin
+  - [x] Mine - mines blocks, very simple
+  - [x] Build - places the block in the caster's offhand
+  - [x] Levitate - inflicts the target with levitation
+  - [x] Growth - accelerates the growth of crops and baby animals
 
 ## Structures
 - [x] Wizard Tower
@@ -77,3 +77,4 @@ Spells are crafted from two main components: Spell Shapes and Spell Effects
   - Neutral mob that will speak with any player wearing wizard robes.
   - Gives quests to the player to upgrade their mana reserves or their spells. Quests reset every new moon.
   - If attacked, it will attack back with magic. Can have up to 8 spells, and if killed, it will drop the spells it had.
+- [x] Opossum
